@@ -1,0 +1,421 @@
+,modo,tipo,bairro,rua,numero,metros_quadrados,quartos,vagas,banheiros,valor
+0,aluguel,Loja,Sete de Abril, Caminho 1ª Travessa 13 de Maio, 4348,35.0,0,1,1,1200
+1,aluguel,Loja,Rio Vermelho, Rua Oswaldo Cruz, 362,20.0,0,0,0,1200
+2,aluguel,Loja,Caminho de Areia, Rua Caminho de Areia, 51,30.0,0,0,1,1200
+3,aluguel,Sala,Paralela, Avenida Luís Viana, 13145,34.62,0,1,1,1200
+4,aluguel,Sala,Sussuarana, Avenida Ulysses Guimarães, 3302,32.0,0,1,1,1200
+5,aluguel,Sala,Comércio, Rua Miguel Calmon,,55.91,0,0,0,1200
+6,aluguel,Sala,Rio Vermelho, Rua Eduardo José dos Santos,,31.0,0,1,1,1200
+7,aluguel,Sala,Caminho das Árvores, Avenida Tancredo Neves,,45.0,0,1,0,1200
+8,aluguel,Sala,Alphaville I, Avenida Luís Viana - Lado Par, 7416,29.53,0,1,1,1200
+9,aluguel,Sala,Alphaville I, Avenida Luís Viana - Lado Par, 7416,29.53,0,1,1,1200
+10,aluguel,Apartamento,Dois de Julho, Largo Dois de Julho, 1,40.0,1,0,1,1250
+11,aluguel,Apartamento,Pituba,,,50.0,1,1,2,1250
+12,aluguel,Apartamento2,Roma, Rua Antônio Francisco Brandão, 10,50.0,2,1,1,1250
+13,aluguel,Casa,Liberdade, Rua Brumado, 15,180.0,3,0,2,1250
+14,aluguel,Apartamento,Amaralina, Rua Visconde de Itaborahy,,45.03,1,1,1,1280
+15,aluguel,Apartamento,Campo Grande, Rua Banco dos Ingleses,,39.14,1,1,1,1280
+16,aluguel,Apartamento2,Politeama, Rua Politeama de Baixo,,58.0,2,1,1,1280
+17,aluguel,Apartamento3,Politeama, Rua Politeama de Cima,,108.0,3,0,1,1280
+18,aluguel,Apartamento,Ondina, Rua Doutor João Garcez Fróes,,47.55,1,0,1,1296
+19,aluguel,Apartamento,Barra, Rua Miguel Burnier,,56.0,1,1,1,1296
+20,aluguel,Village,Itapuã, Rua do Teatro,,42.0,2,0,1,1296
+21,aluguel,Village,São Cristóvão, Rua Jurataí,,67.0,2,1,1,1296
+22,aluguel,Apartamento,Pituba, Rua Marechal Andréa,,50.0,1,1,1,1300
+23,aluguel,Apartamento,Ondina, Rua Professor Clementino Fraga,,48.0,1,1,1,1300
+24,aluguel,Apartamento2,Chame-chame, Avenida Centenário,,90.0,2,1,1,1300
+25,aluguel,Apartamento2,Daniel Lisboa, Rua Rodolfo Pimentel,,74.0,2,1,2,1300
+26,aluguel,Apartamento2,Nordeste, Rua Adelmário Pinheiro,,80.0,2,0,2,1300
+27,aluguel,Apartamento3,Stiep, Rua Edístio Pondé, 66,85.0,3,1,2,1300
+28,aluguel,Apartamento2,Vila Laura, Rua Genésio Sales,,83.0,2,0,1,1380
+29,aluguel,Apartamento2,Monte Serrat, Rua Rio Jaguaripe, 26,160.0,2,0,1,1380
+30,aluguel,Apartamento,Costa Azul, Rua Monsenhor Gaspar Sadoc, 481,53.0,1,1,1,1390
+31,aluguel,Apartamento2,Acupe de Brotas, Ladeira do Acupe, 34,110.0,2,1,2,1390
+32,aluguel,Apartamento,Pituba, Alameda Benevento,,50.0,1,1,1,1400
+33,aluguel,Apartamento,Pituba,,,49.0,1,2,1,1400
+34,aluguel,Apartamento,Caminho das Árvores, Rua Alceu Amoroso Lima, 668,27.55,1,1,1,1400
+35,aluguel,Apartamento2,Federação, Avenida Cardeal da Silva, 204,55.0,2,1,2,1400
+36,aluguel,Apartamento2,Garcia, Avenida Leovigildo Filgueiras,,80.0,2,1,1,1400
+37,aluguel,Apartamento2,Armação, Rua Professor Euclides Alípio de Oliveira,,82.0,2,1,2,1400
+38,aluguel,Apartamento2,Ribeira, Rua Léllis Piedade,,105.0,2,0,2,1400
+39,aluguel,Apartamento3,Caminho de Areia, Rua Professor José Martins Rosas, 41,140.0,3,0,2,1400
+40,aluguel,Apartamento3,Brotas, Rua Miguel Gustavo,,93.0,3,1,2,1400
+41,aluguel,Apartamento3,São Marcos, Conjunto Bosque Imperial, 4,75.0,3,1,2,1400
+42,aluguel,Loja,Roma, Rua Henrique Dias, 20,30.0,0,0,1,1400
+43,aluguel,Loja,Baixa dos Sapateiros, Avenida José Joaquim Seabra, 57,75.0,0,0,1,1400
+44,aluguel,Sala,Parque Bela Vista, Outros 1ª Travessa da Igreja,,100.0,0,0,2,1400
+45,aluguel,Sala,Rio Vermelho, Rua Caetité, 285,70.0,0,2,0,1400
+46,aluguel,Apartamento,Santa Teresa, Rua Parambu,,40.0,1,1,1,1404
+47,aluguel,Apartamento2,Barbalho, Rua Clínio de Jesus,,85.0,2,1,2,1404
+48,aluguel,Kitchenette,Jardim Apipema, Rua Nita Costa,,40.03,1,1,1,1404
+49,aluguel,Apartamento,Barra, Avenida Oceânica, 1621,41.0,1,0,1,1448
+50,aluguel,Apartamento2,Pituaçu, Rua José Chalub Bastos,,58.0,2,1,1,1450
+51,aluguel,Apartamento2,Pituaçu, Rua José Chalub Bastos,,58.0,2,1,1,1450
+52,aluguel,Apartamento2,Brotas, Rua Otacílio Santos,,57.0,2,1,2,1450
+53,aluguel,Apartamento2,Ondina, Avenida Oceânica, 2551,136.0,2,2,2,1450
+54,aluguel,Apartamento,Caminho das Árvores, Rua Ewerton Visco,,50.0,1,1,1,1480
+55,aluguel,Apartamento2,Piatã, Rua Camuripeba, 22,60.0,2,1,2,1480
+56,aluguel,Sala,Caminho das Árvores, Rua Ewerton Visco,,32.0,0,1,1,1500
+57,aluguel,Sala,Paralela, Avenida Luís Viana,,33.57,0,1,1,1500
+58,aluguel,Sala,Ondina, Avenida Anita Garibaldi,,63.0,0,1,0,1500
+59,aluguel,Sala,Cidadela, Rua Senador Teotônio Vilela,,90.0,0,2,1,1500
+60,aluguel,Sala,Caminho das Árvores, Rua Ewerton Visco,,32.0,0,1,1,1500
+61,aluguel,Sala,Caminho das Árvores, Avenida Tancredo Neves,,33.13,0,1,1,1500
+62,aluguel,Sobre-loja,Baixa de Quintas, Rua General Argolo, 40,100.0,0,0,1,1500
+63,aluguel,Apartamento2,Jardim Apipema, Rua Professor Sabino Silva,,104.0,2,1,2,1512
+64,aluguel,Apartamento3,Ondina,,,84.0,3,1,2,1512
+65,aluguel,Apartamento3,Nazaré, Rua Arquimedes Gonçalves,,115.0,3,0,3,1512
+66,aluguel,Apartamento2,Matatu, Rua Bandeirantes,,65.0,2,2,1,1550
+67,aluguel,Apartamento3,Boa Viagem, Rua Gonçalves de Abreu, 14,125.0,3,0,3,1550
+68,aluguel,Apartamento2,Federação, Rua Professor Severo Pessoa,,70.91,2,1,2,1580
+69,aluguel,Apartamento2,Cabula, Rua dos Rodoviários,,62.0,2,1,2,1600
+70,aluguel,Conjuntodesalas,Pituba, Rua Fernando Menezes de Góes, 397,108.84,0,2,2,1600
+71,aluguel,Loja,Lobato, Avenida Afrânio Peixoto, 2228,30.0,0,0,1,1600
+72,aluguel,Loja,Pituba, Avenida Antônio Carlos Magalhães - lado ímpar,,28.0,0,0,0,1600
+73,aluguel,Loja,Itapuã, Avenida Octávio Mangabeira,,37.1,0,0,0,1600
+74,aluguel,Loja,Uruguai, Rua Luiz Régis Pacheco, 268,85.0,0,0,1,1600
+75,aluguel,Pontocomercial,Lobato, Avenida Afrânio Peixoto, 1,28.0,0,0,0,1600
+76,aluguel,Sala,Amaralina, Travessa Doutor Artur Napoleão Carneiro Rego,,18.0,0,0,9,1600
+77,aluguel,Loja,Ondina, Avenida Adhemar de Barros,,60.0,0,0,0,1620
+78,aluguel,Apartamento2,Cabula, Rua Sosígenes Costa,,65.0,2,1,2,1674
+79,aluguel,Apartamento2,Imbuí, Rua das Gaivotas,,72.79,2,1,2,1680
+80,aluguel,Apartamento2,Barra, Rua Greenfeld, 76,100.0,2,0,3,1700
+81,aluguel,Casa,Ribeira, Avenida Porto dos Mastros, 77,90.0,3,0,2,1700
+82,aluguel,Loja,Barra, Rua Cesar Zama,,30.0,0,0,1,1700
+83,aluguel,Loja,Engenho Velho de Brotas, Avenida Vasco da Gama,,29.0,0,0,1,1700
+84,aluguel,Loja,Baixa dos Sapateiros, Avenida José Joaquim Seabra, 348,40.0,0,0,1,1800
+85,aluguel,Sala,Itaigara, Avenida Antônio Carlos Magalhães, 811,67.68,0,0,2,1800
+86,aluguel,Sala,Garcia, Avenida Centenário,,70.0,0,0,0,1800
+87,aluguel,Village,Praia do Flamengo, Rua Clóvis Bevilácqua,,95.02,3,2,1,1800
+88,aluguel,Apartamento3,Pituba, Rua Jornalista Joaquim Ferraro Nascimento,,100.0,3,1,2,1836
+89,aluguel,Apartamento2,Pituba, Rua Território do Rio Branco,,60.0,2,1,2,1900
+90,aluguel,Apartamento3,Jardim Apipema, Rua Nita Costa,,110.0,3,1,3,1900
+91,aluguel,Sala,Federação,,,27.65,0,729,1,1900
+92,aluguel,Sala,Amaralina, Travessa Doutor Artur Napoleão Carneiro Rego,,32.1,0,0,9,1900
+93,aluguel,Apartamento3,Canela, Rua Marechal Floriano,,180.0,3,1,3,1944
+94,aluguel,Flat,Barra, Avenida Princesa Isabel,,33.0,1,1,1,1950
+95,aluguel,Sala,Paralela, Avenida Luís Viana,,54.66,0,1,1,1970
+96,aluguel,Apartamento3,Ondina, Avenida Oceânica, 1479,100.0,3,1,3,2000
+97,aluguel,Casa,Bonfim, Travessa Álvares de Azevedo, 9,240.0,2,1,2,2000
+98,aluguel,Pontocomercial,Liberdade, Rua General Savaget,,290.0,0,0,0,2000
+99,aluguel,Sala,Caminho das Árvores, Alameda Salvador, 1057,35.05,0,1,1,2000
+100,aluguel,Sala,Candeal, Rua Leonor Calmon, 256,34.9,0,1,1,2000
+101,aluguel,Sala,Pituba,,,9.0,0,0,2,2000
+102,aluguel,Salão,Mussurunga I, Rua Doutor Arthur Couto,,70.0,0,0,1,2000
+103,aluguel,Sala,Pituba, Rua Rio Grande do Sul, 332,28.32,0,0,0,0
+104,aluguel,Apartamento,Massaranduba, Rua Lopes Trovão,,25.0,1,0,1,500
+105,aluguel,Sala,Comércio, Avenida Estados Unidos,,33.0,0,0,1,500
+106,aluguel,Apartamento,São Marcos, Rua Dom Bosco, 3,54.0,1,1,1,600
+107,aluguel,Casa,Macaúbas, Rua Antero de Britto,,42.0,2,0,1,660
+108,aluguel,Apartamento,Nazaré,,,40.0,1,0,1,680
+109,aluguel,Apartamento,Nazaré, Rua Desembargador Adolfo Ribeiro Santos Souza, 67,40.0,1,0,1,780
+110,aluguel,Apartamento2,Ribeira, Avenida Porto dos Tanheiros, 98,60.0,2,0,1,800
+111,aluguel,Sala,Dois de Julho, Avenida Sete de Setembro, 62,47.0,0,0,1,800
+112,aluguel,Apartamento2,Graça, Rua Manoel Barreto,,83.0,2,1,3,2125
+113,aluguel,Apartamento2,Imbuí, Rua João José Rescala, 210,75.0,2,1,2,2400
+114,aluguel,Sala,Centro, Praça da Sé,,137.0,0,0,2,2400
+115,aluguel,Sala,Caminho das Árvores, Rua Coronel Almerindo Rehem,,54.78,0,2,2,2400
+116,aluguel,Apartamento2,Rio Vermelho, Avenida Cardeal da Silva, 2070,99.0,2,2,3,2475
+117,aluguel,Apartamento,Rio Vermelho, Rua Barro Vermelho,,95.0,1,2,2,2500
+118,aluguel,Conjuntodesalas,Mares, Avenida Fernandes da Cunha, 22,115.0,0,3,1,2500
+119,aluguel,Apartamento3,Graça, Rua Santa Rita de Cássia,,126.0,3,1,1,2592
+120,aluguel,Apartamento3,Vitória, Rua Aloísio de Carvalho, 147,132.0,3,2,2,2804
+121,aluguel,Apartamento2,Ondina, Avenida Oceânica,,83.2,2,2,2,2900
+122,aluguel,CasaComercial,Calçada, Rua Nilo Peçanha, 136,165.0,4,1,2,3000
+123,aluguel,Loja,Baixa dos Sapateiros, Baixa dos Sapateiros, 304,192.0,0,0,2,3000
+124,aluguel,Casa,Boca do Rio, Rua Tenente Gustavo dos Santos, 38,160.0,4,1,3,3500
+125,aluguel,Loja,Caminho de Areia, Avenida Caminho de Areia,,150.0,0,2,3,3500
+126,aluguel,Loja,Comércio, Rua Portugal, 25,30.0,0,0,1,3500
+127,aluguel,Prédio,Santo Antônio, Rua do Passo, 6,200.0,0,0,2,3600
+128,aluguel,Loja,Comércio, Rua Portugal, 6,56.0,0,0,1,4000
+129,aluguel,Apartamento3,Vitória, Avenida Sete de Setembro,,84.0,3,1,3,4400
+130,aluguel,Conjuntodesalas,Campo Grande, Largo do Campo Grande, 14,130.0,0,0,2,4500
+131,aluguel,CasaComercial,Roma, Rua Francisco Souza, 54,500.0,3,6,4,5000
+132,aluguel,Loja,Roma, Avenida Fernandes da Cunha, 124,230.0,0,3,3,5000
+133,aluguel,CasaComercial,Bonfim, Rua Henrique Dias, 295,500.0,4,4,3,5500
+134,aluguel,CasaComercial,Bonfim, Rua Octávio Barreto, 4,350.0,5,8,4,6000
+135,aluguel,Loja,Plataforma, Avenida Afrânio Peixoto,,370.0,0,0,0,6500
+136,aluguel,CasaComercial,Costa Azul, Rua Arthur de Azevedo Machado,,384.0,0,8,4,8000
+137,aluguel,Prédio,Acupe de Brotas, Rua Professor Rômulo Almeida, 22,300.0,0,11,2,8000
+138,aluguel,Hotel,São Marcos, Rua Vila Vasconcelos, 81,550.0,24,0,24,8500
+139,aluguel,Loja,Roma, Praça Irmã Dulce, 1,180.0,0,2,1,9000
+140,aluguel,Terreno,Ribeira, Rua Léllis Piedade,,250.0,0,0,0,4000
+141,aluguel,Conjuntodesalas,Comércio, Rua Miguel Calmon,,250.0,0,0,4,3000
+142,aluguel,Terreno,Rio Vermelho, Rua Marquês de Monte Santo,,500.0,0,0,0,14540
+143,aluguel,Sala,Pituba, Rua Ramalho Ortigão, 30,18.0,0,0,1,500
+144,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,28.27,0,1,1,550
+145,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,28.27,0,1,1,550
+146,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,28.27,0,1,1,550
+147,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,28.27,0,1,1,550
+148,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,28.27,0,1,1,550
+149,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,27.33,0,1,0,600
+150,aluguel,Apartamento,Dois de Julho, Largo Dois de Julho,,67.0,1,0,1,648
+151,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,37.12,0,1,1,650
+152,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,37.65,0,1,1,650
+153,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,37.12,0,1,1,650
+154,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,37.12,0,1,1,650
+155,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,37.65,0,1,1,650
+156,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,37.12,0,1,1,650
+157,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,28.0,0,1,1,650
+158,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,37.12,0,1,1,650
+159,aluguel,Sala,Pituba, Avenida Antônio Carlos Magalhães,,31.57,0,1,1,650
+160,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,37.0,0,1,1,700
+161,aluguel,Sala,Caminho das Árvores, Avenida Tancredo Neves,,24.71,0,1,0,700
+162,aluguel,Apartamento2,Engenho Velho da Federação, Rua Padre Raimundo Machado,,49.0,2,0,1,702
+163,aluguel,Loja,Pituba, Avenida Paulo Vi,,16.0,0,0,0,750
+164,aluguel,Apartamento2,Nova Brasília, Travessa Bosque do Aeroporto,,50.0,2,0,1,756
+165,aluguel,Apartamento2,Sussuarana, Avenida Ulysses Guimarães,,45.0,2,1,1,780
+166,aluguel,Sala,Caminho das Árvores, Rua Frederico Simões,,27.8,0,1,1,800
+167,aluguel,Sala,Comércio, Rua Torquato Bahia,,44.0,0,0,1,800
+168,aluguel,Apartamento3,Costa Azul, Rua Monsenhor Gaspar Sadoc, 467,97.19,3,1,3,1000
+169,aluguel,Sala,São Cristóvão, Avenida Luís Viana,,35.0,0,1,1,1000
+170,aluguel,Sala,Caminho das Árvores, Avenida Tancredo Neves,,33.0,0,1,1,1000
+171,aluguel,Sala,Pituba, Avenida Antônio Carlos Magalhães,,26.0,0,1,1,1000
+172,aluguel,Sala,Pituba, Rua Maranhão,,37.0,0,1,0,1000
+173,aluguel,Sala,Itaigara, Avenida Antônio Carlos Magalhães, 585,53.77,0,1,1,1000
+174,aluguel,Apartamento,Pituba, Rua Rio de Janeiro, 176,46.07,1,1,2,1080
+175,aluguel,Apartamento2,Pituaçu, Rua Barros Pimentel, 317,47.0,2,1,1,1080
+176,aluguel,Apartamento3,Rio Vermelho, Rua Alagoinhas,,95.0,3,1,3,1188
+177,aluguel,Casa,Stella Maris, Alameda Praia de Guaratuba,,200.0,3,1,2,2125
+178,aluguel,Apartamento4,Graça, Rua Engenheiro Celso Torres,,205.0,4,1,4,2200
+179,aluguel,Apartamento3,Rio Vermelho, Rua Rodrigo Argolo,,108.0,3,1,3,2337
+180,aluguel,Loja,Barra, Travessa Marques de Leão,,48.62,0,0,2,2400
+181,aluguel,Loja,Itapuã, Avenida Octávio Mangabeira,,65.0,0,0,0,2500
+182,aluguel,Apartamento3,Pituba, Avenida Paulo Vi,,101.6,3,2,3,2600
+183,aluguel,Apartamento,Barra, Rua Afonso Celso,,56.0,1,1,1,2975
+184,aluguel,Apartamento3,Graça, Avenida Princesa Isabel,,155.0,3,1,3,3150
+185,aluguel,Apartamento3,Costa Azul, Rua Doutor Augusto Lopes Pontes,,90.0,3,2,2,3150
+186,aluguel,Apartamento4,Graça, Avenida Euclydes da Cunha,,223.0,4,2,2,3150
+187,aluguel,CasaComercial,Pelourinho, Largo do Pelourinho,,100.0,4,0,2,3200
+188,aluguel,Apartamento3,Itaigara, Rua Edith Mendes da Gama e Abreu,,132.0,3,2,2,3500
+189,aluguel,Sala,Paripe, Rua Doutor Eduardo Dotto, 2,180.0,0,0,1,3500
+190,aluguel,Conjuntodesalas,Chame-chame, Avenida Centenário,,100.0,0,3,3,4000
+191,aluguel,Conjuntodesalas,Pituba, Rua Mato Grosso, 164,200.0,0,0,4,4300
+192,aluguel,Apartamento4,Chame-chame, Rua Desembargador Baldoíno Andrade,,146.0,4,3,4,5170
+193,aluguel,Apartamento,Dois de Julho, Ladeira do Gabriel,,67.43,1,1,1,5500
+194,aluguel,Pontocomercial,Rio Vermelho, Rua Lucaia, 148,150.0,0,0,2,5500
+195,aluguel,Loja,Pernambués, Rua do Hipódromo,,210.0,0,0,0,6000
+196,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,28.27,0,1,1,550
+197,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,28.27,0,1,1,550
+198,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,37.12,0,1,1,650
+199,aluguel,Sala,Parque Bela Vista, Rua Metódio Coelho,,55.08,0,0,1,700
+200,aluguel,Sala,Pituba, Avenida Antônio Carlos Magalhães,,26.51,0,1,0,900
+201,aluguel,Pontocomercial,Matatu, Rua do Sangradouro,,1050.5,0,0,0,19000
+202,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,28.27,0,1,1,550
+203,aluguel,Sala,Parque Bela Vista, Avenida Antônio Carlos Magalhães, 3129,39.86,0,1,1,600
+204,aluguel,Sala,Parque Bela Vista, Avenida Antônio Carlos Magalhães,,32.24,0,0,1,600
+205,aluguel,Sala,Nazaré, Rua do Cabral,,36.0,0,0,3,690
+206,aluguel,Apartamento,Jardim Apipema, Rua Desembargador Ezequiel Pondé, 152,40.0,1,0,1,800
+207,aluguel,Loja,Graça, Rua da Paz,,16.0,0,0,0,800
+208,aluguel,Sala,Paripe, Rua Doutor Eduardo Dotto, 2,29.0,0,0,1,1000
+209,aluguel,Apartamento,Pituba, Avenida Manoel Dias da Silva,,50.0,1,1,2,1100
+210,aluguel,Sala,Barra, Rua Marquês de Caravelas,,100.0,0,1,0,2800
+211,aluguel,Galpão,Baixa dos Sapateiros, Avenida José Joaquim Seabra,,512.0,0,0,0,8000
+212,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,28.27,0,1,1,650
+213,aluguel,Sala,Barroquinha, Avenida José Joaquim Seabra,,40.0,0,0,0,1000
+214,aluguel,Apartamento3,Barra, Rua Guadalajara,,120.0,3,1,2,2500
+215,aluguel,Casa,Vila Laura, Rua Mário Rego dos Santos,,243.85,3,4,2,4500
+216,aluguel,Sala,São Cristóvão, Avenida Luís Viana,,34.0,0,1,1,1100
+217,aluguel,Sala,Amaralina, Rua das Ubaranas,,59.0,0,1,1,490
+218,aluguel,Cobertura,Canela, Rua Marechal Floriano,,104.0,2,4,3,3675
+219,aluguel,Apartamento,Uruguai, Rua Luiz Régis Pacheco, 167,35.0,1,0,1,550
+220,aluguel,Apartamento,Uruguai, Rua Luiz Régis Pacheco,,35.0,1,0,1,550
+221,aluguel,Apartamento,Uruguai, Rua Luiz Régis Pacheco,,35.0,1,0,1,550
+222,aluguel,Apartamento,Ribeira, Avenida Porto dos Mastros,,25.0,1,0,1,650
+223,aluguel,Apartamento,Iapi, Rua Conde de Porto Alegre, 186,40.0,1,0,1,650
+224,aluguel,Apartamento2,Mares, Avenida Fernandes da Cunha, 41,95.0,2,0,2,1100
+225,aluguel,CasaComercial,Liberdade, Rua São Cristóvão, 59,100.0,0,0,2,2100
+226,aluguel,Conjuntodesalas,Mares, Avenida Fernandes da Cunha,,115.0,0,3,1,2500
+227,aluguel,Loja,Roma, Avenida Caminho de Areia, 1,65.0,0,0,1,2500
+228,aluguel,Loja,Caminho de Areia, Avenida Caminho de Areia, 135,85.0,0,0,2,3800
+229,aluguel,Loja,Ribeira, Avenida Beira Mar, 229,130.0,0,0,3,4000
+230,aluguel,Sobre-loja,Roma, Praça Irmã Dulce, 2,180.0,0,0,1,4000
+231,aluguel,Galpão,Ribeira, Avenida Porto dos Mastros, 26,350.0,0,0,4,5000
+232,aluguel,Loja,Tancredo Neves, Rua Direta de Tancredo Neves, 1,500.0,0,0,5,5000
+233,aluguel,Loja,Ribeira, Avenida Beira Mar, 473,500.0,0,0,5,8500
+234,aluguel,Loja,Caminho de Areia, Avenida Caminho de Areia, 233,220.0,0,2,2,8500
+235,aluguel,Loja,Liberdade, Estrada da Liberdade, 366,250.0,0,0,1,8500
+236,aluguel,Loja,Caminho de Areia, Avenida Caminho de Areia, 153,380.0,0,3,3,19000
+237,aluguel,Loja,Pituba, Alameda Pádua,,13.0,0,0,0,500
+238,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,28.27,0,1,1,600
+239,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,27.0,0,1,1,700
+240,aluguel,Sala,Parque Bela Vista, Rua Senador Theotônio Vilela,,20.0,0,1,1,750
+241,aluguel,Sala,Itaigara, Avenida Antônio Carlos Magalhães, 480,28.0,0,0,1,800
+242,aluguel,Apartamento,Dois de Julho, Rua da Faísca, 96,40.0,1,0,1,850
+243,aluguel,Sala,Itaigara, Avenida Antônio Carlos Magalhães, 480,24.0,0,0,1,850
+244,aluguel,Sala,Paripe, Rua Doutor Eduardo Dotto, 2,29.0,0,0,1,1000
+245,aluguel,Sala,Amaralina, Travessa Doutor Artur Napoleão Carneiro Rego,,17.5,0,0,9,1000
+246,aluguel,Apartamento,Rio Vermelho, Rua Archibaldo Baleeiro, 172,35.0,1,1,1,1100
+247,aluguel,Apartamento2,Acupe de Brotas, Rua Urbino de Aguiar, 401,66.19,2,1,1,1100
+248,aluguel,Sala,Pituba, Rua das Hortênsias,,22.0,0,1,1,1100
+249,aluguel,Sobre-loja,Comércio, Rua Lauro Muller,,85.0,0,0,1,1188
+250,aluguel,Apartamento2,Patamares, Rua Ibipitanga,,70.0,2,1,2,2125
+251,aluguel,Sala,Graça, Rua Humberto de Campos,,80.0,0,1,0,2231
+252,aluguel,Apartamento3,Ondina, Rua José Valadares,,107.0,3,1,3,3360
+253,aluguel,Apartamento,Barra, Rua Afonso Celso,,65.0,1,1,1,3394
+254,aluguel,Sala,Itaigara, Avenida Antônio Carlos Magalhães,,70.0,0,0,0,4000
+255,aluguel,Conjuntodesalas,Chame-chame, Avenida Centenário, 2411,180.0,0,3,2,4500
+256,aluguel,Apartamento3,Patamares, Rua Le Parc, 235,142.69,3,3,2,4800
+257,aluguel,CasaComercial,Barra, Rua Afonso Celso,,160.0,4,4,4,6300
+258,aluguel,Loja,Pituba, Avenida Manoel Dias da Silva, 1010,83.0,0,1,2,6500
+259,aluguel,Pontocomercial,Caminho das Árvores, Alameda das Algarobas, 646,185.0,0,0,3,6500
+260,aluguel,Loja,Ondina, Avenida Oceânica,,47.28,0,0,0,7000
+261,aluguel,Salão,Itaigara, Avenida Antônio Carlos Magalhães, 1034,218.0,0,3,3,9374
+262,aluguel,Galpão,Valéria, Rodovia Br-324,,468.0,0,15,0,9900
+263,aluguel,Casa,Itaigara, Rua João da Silva Campos, 491,400.0,4,2,5,10000
+264,aluguel,CasaComercial,Acupe de Brotas, Avenida General Graça Lessa,,350.0,0,9,4,10000
+265,aluguel,Salão,Itaigara, Avenida Antônio Carlos Magalhães, 1034,240.0,0,3,3,10320
+266,aluguel,CasaComercial,Barra, Rua Raul Drumond,,250.0,3,0,3,11000
+267,aluguel,CasaComercial,Graça, Rua Manoel Barreto,,248.0,5,2,3,11000
+268,aluguel,Pontocomercial,Rio Vermelho, Rua da Paciência,,525.0,0,0,0,13000
+269,aluguel,CasaComercial,Praia do Flamengo, Rua Thales de Azevedo, 584,545.0,0,3,0,17000
+270,aluguel,Pontocomercial,Pituaçu, Rua Marquês de Queluz, 22,3000.0,0,0,1,25000
+271,aluguel,CasaComercial,Pituba, Avenida Paulo Vi,,405.0,0,12,0,26000
+272,aluguel,CasaComercial,Graça, Rua Humberto de Campos,,520.0,7,0,4,28000
+273,aluguel,Prédio,Politeama, Rua Politeama de Cima,,510.0,0,0,5,30000
+274,aluguel,Sala,Pituba, Avenida Antônio Carlos Magalhães,,671.0,0,0,0,33550
+275,aluguel,Loja,Itaigara, Avenida Antônio Carlos Magalhães, 1034,426.0,0,6,0,45000
+276,aluguel,Prédio,Pituba, Rua Rubem Berta,,3000.0,0,0,18,45000
+277,aluguel,Prédio,Pituba, Avenida Paulo Vi,,2550.0,0,47,0,115000
+278,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,37.65,0,1,1,650
+279,aluguel,Apartamento2,Barreiras, Estrada das Barreiras,,45.0,2,1,1,880
+280,aluguel,Casa,Engenho Velho de Brotas, Rua Almirante Alves Câmara, 233,79.0,2,0,2,1000
+281,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,28.27,0,1,1,550
+282,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,28.27,0,1,1,550
+283,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,28.0,0,1,1,550
+284,aluguel,Apartamento,Dois de Julho, Largo Dois de Julho,,41.0,1,0,1,648
+285,aluguel,Apartamento,Boca do Rio, Avenida Jorge Amado,,35.0,1,0,1,650
+286,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,37.65,0,1,1,650
+287,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,37.12,0,1,1,650
+288,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,37.0,0,1,1,650
+289,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,37.12,0,1,1,650
+290,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,37.65,0,1,1,650
+291,aluguel,Sala,Nazaré, Avenida Joana Angélica,,28.0,0,0,1,700
+292,aluguel,Sala,Parque Bela Vista, Rua Metódio Coelho,,56.0,0,1,1,900
+293,aluguel,Sala,Stiep, Rua Edístio Pondé,,37.0,0,1,0,900
+294,aluguel,Sala,Pituba, Rua Altino Serbeto de Barros,,32.0,0,1,0,1000
+295,aluguel,Apartamento3,Pituba, Rua Mato Grosso, 251,100.0,3,1,3,2200
+296,aluguel,Loja,Engenho Velho de Brotas, Avenida Vasco da Gama,,39.0,0,2,0,2200
+297,aluguel,Sala,Pituba, Avenida Manoel Dias da Silva,,140.0,0,2,0,2500
+298,aluguel,Sala,Pituba, Avenida Manoel Dias da Silva,,140.0,0,2,0,2500
+299,aluguel,Apartamento,Graça, Rua Catarina Paraguassu,,45.0,1,1,1,2721
+300,aluguel,Apartamento,Graça, Rua Catarina Paraguassu,,45.0,1,1,1,2721
+301,aluguel,Apartamento,Graça, Rua Catarina Paraguassu,,45.0,1,1,1,2835
+302,aluguel,Loja,Pituba, Alameda Florença,,95.0,0,0,1,3400
+303,aluguel,CasaComercial,Barra, Rua Afonso Celso, 413,250.0,0,0,0,15000
+304,aluguel,Prédio,Ondina, Avenida Anita Garibaldi, 1211,3200.0,0,100,0,134400
+305,aluguel,CasaComercial,Rio Vermelho, Rua Juazeiro,,297.5,0,5,3,7500
+306,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,28.0,0,1,1,650
+307,aluguel,Sala,Brotas, Avenida Antônio Carlos Magalhães,,37.12,0,1,0,650
+308,aluguel,Apartamento2,Armação, Rua Rodolpho Coelho Cavalcante,,65.75,2,2,2,2500
+309,aluguel,Apartamento3,Canela, Rua Pedro Lessa,,126.0,3,2,2,2590
+310,aluguel,Apartamento2,Imbuí, Rua das Codornas,,84.81,2,2,2,2600
+311,aluguel,Apartamento4,Pituba, Rua Magno Valente, 321,182.3,4,2,3,2700
+312,aluguel,CasaComercial,Nazaré, Largo da Palma,,260.0,0,0,3,3700
+313,aluguel,Apartamento3,Caminho das Árvores, Rua do Benjoim,,190.0,3,2,4,4300
+314,aluguel,CasaComercial,Nazaré, Rua Pedro Américo, 47,500.0,0,0,0,8000
+315,aluguel,Sala,Comércio, Rua Lauro Muller,,42.0,0,0,0,594
+316,aluguel,Sala,Comércio, Rua Lauro Muller,,42.0,0,0,0,594
+317,aluguel,Sala,Caminho das Árvores, Rua Alceu Amoroso Lima, 668,45.0,0,1,1,1000
+318,aluguel,Sala,Caminho das Árvores, Avenida Tancredo Neves,,43.0,0,1,1,1188
+319,aluguel,Loja,Barreiras, Estrada das Barreiras,,100.0,0,0,1,3000
+320,aluguel,Loja,Uruguai, Rua Nilton Franca,,25.0,0,0,1,950
+321,aluguel,CasaComercial,Roma, Rua Francisco Souza, 8,600.0,0,0,5,4300
+322,aluguel,Loja,Pituba, Avenida Manoel Dias da Silva,,128.0,0,3,0,18000
+323,aluguel,CasaComercial,Caminho das Árvores, Alameda das Algarobas,,333.28,0,6,0,18000
+324,aluguel,Galpão,Mares, Rua Frederico Lisboa, 38,315.0,0,3,3,4000
+325,aluguel,Apartamento2,Escada, Avenida Afrânio Peixoto,,70.0,2,0,1,600
+326,aluguel,Apartamento2,Massaranduba, Largo Juracy Magalhães, 37,40.0,2,0,1,600
+327,aluguel,Apartamento,Ribeira, Avenida Porto dos Mastros, 100,25.0,1,0,1,700
+328,aluguel,Sala,Barroquinha, Ladeira da Barroquinha, 26,35.0,0,0,1,700
+329,aluguel,Sala,Liberdade, Estrada da Liberdade, 503,18.0,0,0,1,700
+330,aluguel,Apartamento2,Ribeira, Rua Aníbal da Silva Garcia,,50.0,2,0,1,750
+331,aluguel,Apartamento2,Cidade Nova, Travessa Santa Inês, 20,100.0,2,0,1,750
+332,aluguel,Sala,Barroquinha, Ladeira da Barroquinha, 26,65.0,0,0,1,800
+333,aluguel,Sala,Barroquinha, Ladeira da Barroquinha, 26,55.0,0,0,1,800
+334,aluguel,Apartamento2,Vila Rui Barbosa, Rua da Paz,,60.0,2,0,1,850
+335,aluguel,Apartamento3,Baixa de Quintas, Rua Desembargador Júlio de Brito, 6,70.0,3,0,2,900
+336,aluguel,Apartamento2,Pituaçu, Rua Francisco Pereira Coutinho,,50.0,2,0,1,1100
+337,aluguel,Sala,Pituba, Avenida Antônio Carlos Magalhães, 3244,33.15,0,1,1,1100
+338,aluguel,Sala,Amaralina, Travessa Doutor Artur Napoleão Carneiro Rego,,19.5,0,0,9,1100
+339,aluguel,Apartamento,Narandiba, Rua Amazonas,,48.0,1,0,1,1188
+340,aluguel,Sala,Amaralina, Travessa Doutor Artur Napoleão Carneiro Rego,,50.65,0,0,9,2400
+341,aluguel,Apartamento,Graça, Rua Catarina Paraguassu,,45.0,1,1,1,2721
+342,aluguel,Loja,Barra, Rua Lord Cochrane,,60.0,0,1,2,3300
+343,aluguel,Loja,Barra, Rua Lord Cochrane,,70.0,0,1,2,4500
+344,aluguel,Prédio,Itapuã, Rua João do Peixe,,235.0,0,7,5,14000
+345,aluguel,Conjuntodesalas,Barra, Rua Lord Cochrane,,300.0,0,2,5,18000
+346,aluguel,Loja,Engenho Velho de Brotas, Avenida Vasco da Gama,,280.0,0,6,0,20000
+347,aluguel,Loja,Cabula, Rua Silveira Martins, 292,614.0,0,7,0,38000
+348,aluguel,Loja,Graça, Avenida Euclydes da Cunha,,570.0,0,20,4,65000
+349,aluguel,Loja,Tancredo Neves, Rua Direta de Tancredo Neves, 2,335.0,0,0,2,13000
+350,aluguel,CasaComercial,Federação, Rua José Wilson de Vasconcelos,,350.0,0,2,2,4800
+351,aluguel,Apartamento2,Caminho de Areia, Avenida Caminho de Areia, 237,75.0,2,0,1,1000
+352,aluguel,Conjuntodesalas,Pituba, Avenida Antônio Carlos Magalhães,,671.0,0,6,6,33000
+353,aluguel,Conjuntodesalas,Pituba, Avenida Antônio Carlos Magalhães,,671.0,0,6,6,33000
+354,aluguel,Conjuntodesalas,Pituba, Avenida Antônio Carlos Magalhães,,671.0,0,6,6,33000
+355,aluguel,Conjuntodesalas,Pituba, Avenida Antônio Carlos Magalhães,,671.0,0,6,6,33000
+356,aluguel,Loja,Itacaranha, Avenida Afrânio Peixoto, 2,500.0,0,4,2,8000
+357,aluguel,Sala,Rio Vermelho, Avenida Juracy Magalhães Júnior, 64,35.0,0,0,1,650
+358,aluguel,Sala,Rio Vermelho, Avenida Juracy Magalhães Júnior, 64,42.0,0,0,1,800
+359,aluguel,Pontocomercial,Roma, Avenida Fernandes da Cunha,,430.0,0,3,0,12000
+360,aluguel,Conjuntodesalas,Pituba, Avenida Antônio Carlos Magalhães,,671.0,0,6,6,33000
+361,aluguel,Conjuntodesalas,Pituba, Avenida Antônio Carlos Magalhães,,671.0,0,6,6,33000
+362,aluguel,Loja,Liberdade, Estrada da Liberdade,,19.0,0,0,0,350
+363,aluguel,Sala,Comércio, Rua Lauro Muller,,42.0,0,0,0,594
+364,aluguel,Salão,Calçada,,,100.0,0,0,1,2500
+365,aluguel,Loja,Uruguai, Praça Teive e Argolo, 13,170.0,0,0,3,4000
+366,aluguel,Salão,Federação, Avenida Cardeal da Silva,,295.0,0,5,4,8000
+367,aluguel,Conjuntodesalas,Campinas de Pirajá, Estrada de Campinas, 42,100.0,0,0,1,1000
+368,aluguel,Sala,Parque Bela Vista, Avenida Antônio Carlos Magalhães,,30.0,0,1,0,500
+369,aluguel,Apartamento,Boca do Rio, Avenida Jorge Amado,,35.0,1,0,1,650
+370,aluguel,Apartamento2,Uruguai, Outros 2ª Travessa Nelton Franca,,58.0,2,0,1,750
+371,aluguel,Sala,Caminho das Árvores, Rua Ewerton Visco,,26.0,0,1,1,750
+372,aluguel,Apartamento2,São Marcos, Avenida Oceano Pacífico, 481,52.28,2,0,1,800
+373,aluguel,Casa,Nordeste, Rua Sudeste, 8,65.0,2,0,1,900
+374,aluguel,Sala,Caminho das Árvores, Avenida Tancredo Neves,,29.94,0,1,1,900
+375,aluguel,Casaemcondomínio,Itapuã, Rua Odorico Tavares, 7,150.0,5,1,4,3300
+376,aluguel,CasaComercial,Caminho das Árvores, Rua das Avencas, 73,366.0,0,2,0,7000
+377,aluguel,CasaComercial,Matatu, Rua Lalita Costa, 346,400.0,0,0,0,9000
+378,aluguel,Loja,Baixa de Quintas, Avenida Heitor Dias,,600.0,0,8,0,9000
+379,aluguel,Terreno,Engenho Velho da Federação, Avenida Cardeal da Silva,,588.0,0,0,0,10000
+380,aluguel,Loja,Matatu, Rua Barros Falcão,,80.82,0,7,0,10500
+381,aluguel,Loja,Matatu, Rua Barros Falcão,,92.03,0,10,0,12000
+382,aluguel,CasaComercial,Rio Vermelho, Rua Professora Natália Vinhais,,720.0,0,1,4,16000
+383,aluguel,Loja,Caminho das Árvores, Rua Ewerton Visco,,545.0,0,18,2,65000
+384,aluguel,Sala,Comércio, Rua Lauro Muller,,42.0,0,0,0,594
+385,aluguel,Loja,Massaranduba, Rua Dom Sebastião Lemos,,40.0,0,0,1,750
+386,aluguel,Sala,Barra, Rua Lord Cochrane,,30.0,0,0,0,1000
+387,aluguel,Apartamento4,Ondina, Rua Morro do Escravo Miguel,,220.47,4,2,2,2940
+388,aluguel,Sala,Federação, Avenida Anita Garibaldi, 0,31.77,0,1,1,600
+389,aluguel,Apartamento,Politeama,,,36.0,1,0,1,800
+390,aluguel,Apartamento3,Rio Vermelho,,,122.5,3,1,3,2300
+391,aluguel,Apartamento4,Pituba,,,106.06,4,2,3,2300
+392,aluguel,Sala,Comércio, Rua dos Algibebes, 4,29.0,0,0,1,500
+393,aluguel,Sala,Comércio, Rua Miguel Calmon,,200.0,0,0,0,4000
+394,aluguel,Apartamento3,Pituaçu,,,142.27,3,2,2,5250
+395,aluguel,CasaComercial,Caminho das Árvores, Alameda das Cajazeiras,,450.0,0,4,7,15000
+396,aluguel,Sala,Federação, Avenida Cardeal da Silva,,295.0,0,1,0,8000
+397,aluguel,Sala,Federação, Avenida Cardeal da Silva,,295.0,0,1,0,8000
+398,aluguel,Loja,Stella Maris, Rua Professor Carlos Ott, 79,21.0,0,0,0,1000
+399,aluguel,Loja,Barris, Rua Conselheiro Junqueira Ayres, 2,118.5,0,0,0,7000
+400,aluguel,Sala,Comércio, Rua Portugal,,29.87,0,0,1,700
+401,aluguel,Sala,São Gonçalo, Rua Tobogan, 5,90.0,0,0,0,2400
+402,aluguel,Apartamento,Pituba,,,29.42,1,0,1,1080
+403,aluguel,Pontocomercial,Canela,,,280.0,0,0,2,5000
+404,aluguel,CasaComercial,Rio Vermelho,,,360.0,0,2,4,12000
+405,aluguel,Loja,Dois de Julho, Rua Carlos Gomes,,500.0,0,0,3,20000
+406,aluguel,Pontocomercial,Engenho Velho de Brotas, Rua Frederico Costa,,1500.0,0,11,8,20000
+407,aluguel,Pontocomercial,Liberdade,,,472.0,0,0,10,20000
+408,aluguel,Pontocomercial,Canela,,,543.0,0,5,0,22000
+409,aluguel,Sala,Parque Bela Vista, Avenida Antônio Carlos Magalhães,,28.27,0,1,1,600
+410,aluguel,Apartamento2,Vila Rui Barbosa, Rua José Bonifácio,,40.0,2,0,1,650
+411,aluguel,Sala,Parque Bela Vista, Avenida Antônio Carlos Magalhães,,50.0,0,0,1,900
+412,aluguel,Loja,Barra, Rua Marquês de Caravelas,,200.0,0,0,2,8500
+413,aluguel,Cobertura,Itaigara, Rua Almeida Garret,,86.0,2,2,2,3700
+414,aluguel,Apartamento,Ribeira, Beco Bucuitiba, 23,40.0,1,0,0,700
+415,aluguel,Pontocomercial,Liberdade, Estrada da Liberdade,,192.3,0,0,2,5900
+416,aluguel,Conjuntodesalas,Pituba,,,50.0,0,0,0,3000
+417,aluguel,CasaComercial,Matatu,,,143.0,0,4,4,15000
+418,aluguel,Apartamento,Ribeira, Beco Bucuitiba, 22,40.0,1,0,0,700
+419,aluguel,Galpão,Ceasa,,,543.0,0,0,2,6500
