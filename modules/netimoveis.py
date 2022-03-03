@@ -6,6 +6,9 @@ from scrapy.http import XmlResponse
 from driver.config import selDriver
 import pandas as pd
 from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 import requests
 import time
@@ -20,9 +23,9 @@ class Scrapper:
         
     def get_page_content(self):
 
-        time.sleep(0.5)
+        time.sleep(0.8)
         self.click_next()
-        time.sleep(0.5)
+        time.sleep(0.8)
         self.soup = BeautifulSoup(self.driver.page_source, 'html.parser')
 
         imoveis_container = self.soup.find('div', {'class', 'row imoveis'})
@@ -44,7 +47,7 @@ class Scrapper:
 
             tipo =  ''.join([l.replace(' ', '') for l in tipo])
             if 'quarto' in tipo:
-                tipo = tipo[:-7]
+                tipo = tipo[:-8]
     
 
             metros_quadrados = ''.join([l.replace(' ', '') for l in metros_quadrados.split(' ')])
@@ -76,13 +79,12 @@ class Scrapper:
             except IndexError:
                 pass
             try:
-                numero = endereco.split(',')[2]
+                numero = int(endereco.split(',')[2])
             except IndexError:
                 pass
     
              
             imovel_dict = dict()
-
 
             imovel_dict['modo']             = self.modo
             imovel_dict['tipo']             = tipo
@@ -96,37 +98,33 @@ class Scrapper:
             imovel_dict['valor']            = valores
 
             print(imovel_dict)
-
-            print(imovel_dict)
             
             imoveis_list.append(imovel_dict)
 
         return imoveis_list
 
     def get_page_number(self):
+        number = self.driver.find_element_by_xpath('/html/body/main/article/section/div/div/section[2]/nav/ul/li[9]/a').text
+        return int(number)
 
-        self.driver.get(f'https://www.netimoveis.com/{self.modo}/bahia/salvador?transacao=venda&localizacao=BR-BA-salvador---&pagina=1')
-        
-        numero_paginas = self.driver.find_element_by_xpath('/html/body/main/article/section/div/div/section[2]/nav/ul/li[9]/a').text
-        return int(numero_paginas)
-    
     def click_next(self):
 
-        prox_btn = self.driver.find_element_by_partial_link_text('Próximo')
-        prox_btn.click()
+        wait = WebDriverWait(self.driver, 30)
+        content = wait.until(
+        EC.presence_of_element_located((By.CLASS_NAME, "endereco")))
+        time.sleep(2)
+        element = self.driver.find_element_by_partial_link_text('Próximo')
 
-
-
-
-
-scrapper = Scrapper('venda')
+        element.click()
+        
+scrapper = Scrapper('aluguel')
 imoveis_geral = list()
 
 
-numero_paginas = scrapper.get_page_number()
-print(numero_paginas)
+number = scrapper.get_page_number()
+print(number)
 
-for i in range(numero_paginas):
+for i in range(number):
     try:
         imoveis_list = scrapper.get_page_content()
         imoveis_geral = imoveis_geral + imoveis_list
@@ -136,4 +134,27 @@ for i in range(numero_paginas):
 
 df = pd.DataFrame(imoveis_geral)
 print(df.head())
-df.to_csv('venda_salvador.csv')
+
+# aluguel
+df['tipo'] = df['tipo'].replace({
+    "Apartament": "Apartamento",
+    "Apartamento2": "Apartamento",
+    "Apartamento3": "Apartamento", 
+    "Apartamento4": "Apartamento", 
+    "CasaComercial":"Casa Comercial", 
+    "Casaemcondomínio": "Casa em condomínio", 
+    "Conjuntodesalas": "Conjunto de salas",
+    "Pontocomercial": "Ponto comercial" })
+
+# venda
+# df['tipo'] = df['tipo'].replace({
+#     "Apartament": "Apartamento", 
+#     "CasaComercial":"Casa Comercial", 
+#     "Casaemcondomínio": "Casa em condomínio", 
+#     "Conjuntodesalas": "Conjunto de salas",
+#     "Pontocomercial": "Ponto comercial", 
+#     "Terrenoemcondomínio": "Terreno em condomínio"
+#     })
+
+
+df.to_csv('aluguel_salvador.csv')

@@ -1,633 +1,633 @@
 ,modo,tipo,bairro,rua,numero,metros_quadrados,quartos,vagas,banheiros,valor
-0,venda,Apartamento3,Stiep, Rua Edístio Pondé, 66,85.0,3,1,2,380000
-1,venda,Loja,Ondina, Avenida Adhemar de Barros,,60.0,0,0,0,420000
-2,venda,Apartamento3,Jardim Apipema, Rua Nita Costa,,110.0,3,1,3,650000
-3,venda,Sala,Centro, Travessa da Ajuda, 2,31.8,0,0,0,98000
-4,venda,Apartamento2,Liberdade, Estrada da Liberdade, 170,63.0,2,0,1,125000
-5,venda,Sala,Pituba, Rua Rio Grande do Sul, 332,28.32,0,0,0,140000
-6,venda,Apartamento2,Trobogy, Rua Deputado Jairo Azi, 161,62.0,2,1,2,150000
-7,venda,Casa,Vila Laura, Avenida Brasil, 64,47.0,2,0,1,150000
-8,venda,Loja,Politeama, Rua Clóvis Spínola, 40,30.0,0,0,1,150000
-9,venda,Sala,Stiep, Rua José Peroba, 297,29.0,0,1,0,150000
-10,venda,Apartamento2,Federação, Rua Engenheiro Jaime Zaverucha, 277,47.0,2,0,1,180000
-11,venda,Sala,São Cristóvão, Avenida Luís Viana, 13226,33.57,0,1,1,190000
-12,venda,Apartamento3,Bonfim, Rua Parque São José, 29,58.0,3,1,1,195000
-13,venda,Apartamento2,Bonfim, Rua do Céu, 17,65.0,2,1,1,198000
-14,venda,Apartamento2,Ribeira, Rua Eládio Paim, 71,86.0,2,1,1,200000
-15,venda,Casa,Politeama,,,56.0,2,0,2,200000
-16,venda,CasaComercial,Calçada, Rua Nilo Peçanha, 136,165.0,4,1,2,200000
-17,venda,Apartamento2,Ribeira, Avenida Porto dos Mastros, 1325,68.0,2,1,2,210000
-18,venda,Apartamento2,Dois de Julho, Rua Tuiuti, 112,80.0,2,0,1,210000
-19,venda,Apartamento3,Bonfim, Rua Doutor Couto Maia, 2,74.0,3,0,2,210000
-20,venda,Apartamento3,Federação, Rua Engenheiro Lídio Campos,,65.0,3,1,2,215000
-21,venda,Apartamento2,Nazaré, Rua Marujos do Brasil, 193,94.0,2,0,3,225000
-22,venda,Apartamento2,Santa Teresa, Rua Hélio de Oliveira, 685,71.0,2,1,3,230000
-23,venda,Apartamento4,São Cristóvão, Rua Leblon, 210,200.0,4,0,1,230000
-24,venda,Apartamento,Amaralina, Rua Visconde de Itaborahy,,45.03,1,1,1,235000
-25,venda,Apartamento2,Bonfim, Rua Jorge Simões, 156,52.0,2,1,2,235000
-26,venda,Apartamento2,Acupe de Brotas, Rua Cael,,67.72,2,1,2,240000
-27,venda,Sala,Caminho das Árvores, Rua Alceu Amoroso Lima, 276,30.0,0,1,1,240000
-28,venda,Casa,Roma, Rua Araújo Bulcão, 21,246.0,6,1,4,320000
-29,venda,Casa,Stella Maris, Rua Paulo Freire, 13,110.0,3,1,2,330000
-30,venda,Apartamento2,Barra, Rua Engenheiro Milton Oliveira, 115,54.52,2,1,2,350000
-31,venda,Apartamento3,Nazaré, Rua Arquimedes Gonçalves, 2,120.0,3,1,2,350000
-32,venda,Apartamento3,Armação, Rua Rodolpho Coelho Cavalcante, 142,87.0,3,1,3,350000
-33,venda,Apartamento3,Vila Rui Barbosa, Rua Resende Costa, 44,119.0,3,1,2,350000
-34,venda,Casa,Bonfim, Rua Doutor Couto Maia, 43,182.0,3,0,2,350000
-35,venda,Apartamento2,Santa Teresa, Rua Francisco Jorge, 86,62.0,2,1,2,360000
-36,venda,Apartamento,Rio Vermelho, Rua Barro Vermelho,,95.0,1,2,2,380000
-37,venda,Apartamento2,Vila Laura, Rua Genésio Sales, 197,120.0,2,1,2,380000
-38,venda,Apartamento3,Costa Azul, Rua Professor Gérson Pinto, 281,132.0,3,1,3,380000
-39,venda,Apartamento3,Monte Serrat, Rua Rio Itapicuru, 12,110.0,3,1,3,385000
-40,venda,Apartamento3,Bonfim, Rua Doutor Esmeraldino Bandeira, 6,141.0,3,1,1,390000
-41,venda,Apartamento3,Graça, Rua Manoel Barreto,,90.0,3,0,2,390000
-42,venda,Apartamento3,Garcia, Rua Pacífico Pereira, 32,106.0,3,0,2,390000
-43,venda,Apartamento4,Parque Bela Vista, Rua Ararendá,,139.0,4,1,3,395000
-44,venda,Apartamento2,Pituba, Rua Antenor Tupinambá, 297,84.0,2,1,2,400000
-45,venda,Apartamento3,Barra, Rua Barão de Sergy,,141.2,3,0,2,400000
-46,venda,Apartamento3,Graça, Avenida Princesa Leopoldina, 341,117.0,3,0,4,400000
-47,venda,Apartamento3,Bonfim, Avenida Salvador, 12,121.0,3,1,2,400000
-48,venda,Apartamento3,Vila Laura, Rua Genésio Sales, 22,120.0,3,2,3,420000
-49,venda,Casa,Mares, Rua Agrário de Menezes, 50,94.0,4,1,3,420000
-50,venda,Casa,Barbalho, Rua Professor Palma, 12,141.0,5,0,3,420000
-51,venda,Apartamento3,Armação, Rua Rodolpho Coelho Cavalcante, 280,90.0,3,1,1,431000
-52,venda,Apartamento,Pituba, Avenida Octávio Mangabeira,,50.0,1,1,1,440000
-53,venda,Apartamento3,Candeal, Rua Alexandrina Ramalho, 70,105.0,3,2,3,450000
-54,venda,Apartamento3,Rio Vermelho, Rua Rodrigo Argolo, 508,118.0,3,3,4,450000
-55,venda,Apartamento4,Candeal, Rua Carlos Maron,,123.0,4,2,3,450000
-56,venda,Sala,Caminho das Árvores, Alameda Salvador,,74.0,0,2,0,580000
-57,venda,Apartamento6,Pituba, Rua Artur de Sá Menezes, 437,431.0,6,2,5,600000
-58,venda,Apartamento4,Canela, Vila Ferraro, 90,185.0,4,2,4,650000
-59,venda,Loja,Roma, Avenida Fernandes da Cunha, 56,320.0,0,4,2,650000
-60,venda,Loja,Baixa dos Sapateiros, Avenida José Joaquim Seabra, 144,390.0,0,0,2,650000
-61,venda,Casa,Bonfim, Rua Biguá, 236,456.0,4,3,4,699000
-62,venda,Apartamento3,Barra, Rua Cesar Zama,,145.0,3,1,2,700000
-63,venda,Casa,Itapuã, Rua Alberto Vita,,367.0,6,3,5,700000
-64,venda,CasaComercial,Mares, Avenida Fernandes da Cunha, 52,336.0,3,3,3,720000
-65,venda,Apartamento3,Graça, Rua Oito de Dezembro, 351,172.0,3,2,3,745000
-66,venda,Prédio,Caminho de Areia, Avenida Caminho de Areia,,630.0,0,2,2,750000
-67,venda,Casaemcondomínio,Stella Maris, Alameda Praia de Icaraí, 256,280.0,4,2,5,790000
-68,venda,Prédio,Mares, Rua Barão de Cotegipe, 77,270.0,3,0,4,850000
-69,venda,Prédio,Bonfim, Rua Álvares de Azevedo, 10,600.0,4,3,4,850000
-70,venda,Casa,Ribeira, Avenida Beira Mar, 370,447.0,3,4,3,890000
-71,venda,Casa,Candeal, Rua Dinah Silveira de Queirós, 714,358.0,4,5,4,980000
-72,venda,Apartamento4,Barra, Avenida Princesa Isabel, 631,144.0,4,2,4,1150000
-73,venda,Casa,Pituba, Rua Artur de Sá Menezes, 157,221.0,4,4,4,1200000
-74,venda,Apartamento4,Campo Grande, Largo do Campo Grande,,267.58,4,3,3,1250000
-75,venda,Casa,Bonfim, Rua Henrique Dias, 253,370.0,8,4,5,1400000
-76,venda,Apartamento3,Patamares, Rua do Mangalô, 277,208.0,3,3,4,1470000
-77,venda,Casa,Bonfim, Rua Baden Powell, 25,258.0,4,3,5,1490000
-78,venda,Apartamento3,Barra, Rua Cândido Portinari,,171.0,3,3,5,1500000
-79,venda,Casa,Bonfim, Avenida Dendezeiros do Bonfim, 195,402.0,4,3,2,1500000
-80,venda,Casa,Jardim Apipema, Rua Quintino de Carvalho,,382.0,4,5,6,1700000
-81,venda,Pousada,Barra, Rua Recife,,169.0,12,0,12,1800000
-82,venda,Casaemcondomínio,Federação, Rua Manoel Marques,,353.0,4,6,5,1880000
-83,venda,Pousada,Santo Antônio, Ladeira do Carmo,,655.0,12,0,7,1950000
-84,venda,Casa,Praia do Flamengo, Rua Ipecaetá, 2,300.0,0,2,3,650000
-85,venda,Galpão,Mares, Avenida Conselheiro Zacarias,,600.0,0,4,2,1300000
-86,venda,Apartamento3,Jardim Apipema, Rua Plínio Moscoso, 1275,245.0,3,3,5,1400000
-87,venda,Casaemcondomínio,Pituba, Rua Antão Gonçalves, 1902,350.0,3,2,6,1950000
-88,venda,Apartamento,Caminho das Árvores, Rua Ewerton Visco, 160,50.07,1,1,1,350000
-89,venda,Apartamento,Caminho das Árvores, Rua Ewerton Visco, 160,49.96,1,1,1,350000
-90,venda,Apartamento2,Vila Laura, Rua Genésio Sales, 777,75.0,2,1,2,405000
-91,venda,Apartamento3,Pernambués, Rua Guilherme Muniz,,78.0,3,1,1,225000
-92,venda,Terreno,Ribeira, Rua Léllis Piedade,,250.0,0,0,0,410000
-93,venda,Sala,Caminho das Árvores, Avenida Tancredo Neves, 3343,24.71,0,1,0,130000
-94,venda,Apartamento,Jardim Placaford, Rua Desembargador João Azevedo Cavalcante,,51.0,1,1,1,160000
-95,venda,Sala,Comércio, Rua Conselheiro Dantas, 8,81.0,0,0,1,170000
-96,venda,Apartamento3,Matatu, Rua Edgard Reys Navarro,,83.0,3,1,2,180000
-97,venda,Sala,Caminho das Árvores, Rua Alceu Amoroso Lima,,23.0,0,1,1,210000
-98,venda,Apartamento2,Federação, Rua Joaquim Calado,,95.0,2,1,1,230000
-99,venda,Apartamento2,Brotas, Rua Desembargador Antônio Bulcão,,86.0,2,0,2,235000
-100,venda,Apartamento2,Chame-chame, Avenida Centenário,,78.41,2,1,1,240000
-101,venda,Apartamento2,Armação, Rua João Mendes da Costa Filho,,107.0,2,1,2,280000
-102,venda,Loja,Dois de Julho, Avenida Sete de Setembro,,29.5,0,0,0,280000
-103,venda,Casa,Nazaré, Ladeira da Fonte das Pedras,,185.0,3,0,2,300000
-104,venda,Apartamento3,Costa Azul, Rua Doutor Augusto Lopes Pontes,,89.0,3,1,3,330000
-105,venda,Apartamento2,Brotas, Avenida Dom João Vi,,83.0,2,0,2,350000
-106,venda,Apartamento2,Graça, Rua Almirante Cleto Japi Assu,,75.0,2,0,2,370000
-107,venda,Apartamento2,Jardim Apipema, Rua Desembargador Demétrio Tourinho,,80.26,2,1,3,375000
-108,venda,Apartamento2,Jardim Apipema, Rua Quintino de Carvalho,,70.0,2,1,2,380000
-109,venda,Apartamento2,Jardim Apipema, Rua Quintino de Carvalho,,80.0,2,1,2,380000
-110,venda,Conjuntodesalas,Ondina, Avenida Anita Garibaldi,,92.0,0,2,2,380000
-111,venda,Casa,Engenho Velho de Brotas, Rua Frederico Costa,,82.0,4,2,2,390000
-112,venda,Apartamento4,Jardim Apipema, Rua Doutor Rubens Chaves,,170.0,4,3,3,750000
-113,venda,Apartamento2,Graça, Avenida Euclydes da Cunha,,92.0,2,2,2,800000
-114,venda,Apartamento4,Pituba, Rua Ceará,,207.5,4,3,4,800000
-115,venda,Apartamento3,Campo Grande, Largo do Campo Grande,,102.0,3,1,2,840000
-116,venda,Apartamento4,Pituba, Avenida Paulo Vi,,263.15,4,2,4,980000
-117,venda,Apartamento4,Acupe de Brotas, Ladeira do Acupe,,182.87,4,3,4,990000
-118,venda,Apartamento2,Barra, Avenida Sete de Setembro,,159.0,2,2,3,1000000
-119,venda,Apartamento4,Ondina, Rua Morro do Escravo Miguel,,270.0,4,4,5,1000000
-120,venda,Apartamento4,Jardim Apipema, Rua Plínio Moscoso,,250.0,4,3,5,1090000
-121,venda,Apartamento3,Barra, Rua Fernão de Magalhães,,230.0,3,3,5,1250000
-122,venda,Apartamento4,Chame-chame, Rua Plínio Moscoso,,162.0,4,2,5,1300000
-123,venda,Apartamento4,Jardim Apipema, Rua Christiano Ottoni,,305.0,4,4,5,1300000
-124,venda,Casa,Itaigara, Rua Hermann Neeser, 575,301.09,3,2,5,1400000
-125,venda,Casaemcondomínio,Ondina, Travessa Guedeville,,260.0,4,6,6,1750000
-126,venda,Apartamento4,Jardim Apipema, Rua Plínio Moscoso,,332.16,4,4,5,1843000
-127,venda,Casa,Jardim Apipema, Rua Plínio Moscoso,,500.0,6,1,7,1850000
-128,venda,Sala,Barra, Avenida Oceânica,,172.85,0,5,1,1863323
-129,venda,Casa,Federação, Rua Professor Severo Pessoa,,465.0,7,4,4,2000000
-130,venda,Apartamento,Engenho Velho de Brotas, Rua Boa Vista de Brotas,,30.0,1,0,1,120000
-131,venda,Sala,Parque Bela Vista, Avenida Antônio Carlos Magalhães, 2573,31.83,0,1,1,125000
-132,venda,Sala,Parque Bela Vista, Avenida Antônio Carlos Magalhães, 2573,33.88,0,1,1,125000
-133,venda,Sala,Parque Bela Vista, Avenida Antônio Carlos Magalhães, 2573,31.83,0,1,1,125000
-134,venda,Sala,Parque Bela Vista, Avenida Antônio Carlos Magalhães, 2573,31.83,0,1,1,125000
-135,venda,Sala,Pituba, Alameda Benevento,,32.0,0,0,1,140000
-136,venda,Sala,Caminho das Árvores, Rua Alceu Amoroso Lima,,21.59,0,1,0,160000
-137,venda,Apartamento2,Piatã, Rua Camuripeba,,39.0,2,1,2,165000
-138,venda,Apartamento2,Barbalho, Rua Clínio de Jesus, 40,74.0,2,0,1,168800
-139,venda,Apartamento2,Jardim das Margaridas, Rua Joaquim Ferreira,,55.0,2,1,2,180000
-140,venda,Apartamento3,Stiep, Conjunto Bancários do Stiep,,57.96,3,0,2,290000
-141,venda,Apartamento,Rio Vermelho, Rua do Mirante, 58,44.0,1,1,1,300000
-142,venda,Apartamento3,Federação, Rua Sérgio de Carvalho,,62.69,3,1,1,300000
-143,venda,Apartamento3,Amaralina, Rua Campo Formoso,,65.55,3,1,2,300000
-144,venda,Apartamento3,Jardim Apipema, Rua Plínio Moscoso, 793,75.0,3,1,2,300000
-145,venda,Apartamento2,Narandiba, Rua Amazonas,,57.7,2,2,1,310000
-146,venda,Apartamento2,Doron, Rua Péricles Cardoso,,64.0,2,1,2,310000
-147,venda,Apartamento,Pituba, Rua Edmar Guimarães, 41,52.4,1,1,1,330000
-148,venda,Casa,Matatu, Rua Adelaide Guimarães, 175,136.0,3,0,3,330000
-149,venda,Apartamento3,Vila Laura, Rua Bernardo Spector, 81,111.0,3,0,2,335000
-150,venda,Apartamento2,Costa Azul, Rua Monsenhor Gaspar Sadoc,,116.0,2,2,3,340000
-151,venda,Apartamento2,Pituba, Alameda Florença, 33,83.96,2,1,3,340000
-152,venda,Apartamento3,Imbuí, Rua das Patativas,,69.47,3,1,3,340000
-153,venda,Apartamento3,Candeal, Rua Alberto Pondé, 59,119.91,3,2,2,350000
-154,venda,Apartamento2,Federação, Rua do Trilho, 195,73.0,2,1,2,360000
-155,venda,Apartamento2,Pituba, Rua Magno Valente, 523,58.71,2,1,1,365000
-156,venda,Apartamento3,Narandiba, Rua Amazonas, 157,74.24,3,2,3,365000
-157,venda,Apartamento3,Daniel Lisboa, Rua Nossa Senhora de Brotas,,70.66,3,1,3,380000
-158,venda,Apartamento3,Pituba, Rua Território do Rio Branco, 245,117.91,3,1,2,385000
-159,venda,Apartamento2,Pituba, Avenida Manoel Dias da Silva,,70.0,2,1,3,390000
-160,venda,Apartamento2,Pituba, Rua Maranhão, 420,88.14,2,1,3,399000
-161,venda,Conjuntodesalas,Itaigara, Avenida Antônio Carlos Magalhães, 454,80.0,0,0,2,399000
-162,venda,Apartamento,Caminho das Árvores, Rua Alceu Amoroso Lima,,44.77,1,1,1,400000
-163,venda,Apartamento2,Jardim Apipema, Rua Quintino de Carvalho,,70.0,2,1,2,400000
-164,venda,Apartamento3,Cabula, Rua Silveira Martins,,75.0,3,1,2,405000
-165,venda,Apartamento3,Caminho das Árvores, Rua Várzea de Santo Antônio, 331,118.4,3,1,3,410000
-166,venda,Apartamento2,Vitória, Avenida Sete de Setembro, 2155,95.0,2,0,2,420000
-167,venda,Apartamento3,Federação, Avenida Anita Garibaldi,,120.0,3,1,2,420000
-168,venda,Apartamento3,Pituba, Rua Artur Gomes de Carvalho,,86.0,3,2,3,550000
-169,venda,Apartamento2,Armação, Rua Rodolpho Coelho Cavalcante,,72.0,2,2,1,560000
-170,venda,Apartamento3,Itaigara, Rua Doutor Hosannah de Oliveira,,103.0,3,2,1,600000
-171,venda,Apartamento4,Pituba, Rua Santa Helena,,180.0,4,2,2,600000
-172,venda,Apartamento2,Pituaçu, Rua Marquês de Queluz, 631,90.7,2,2,2,630000
-173,venda,Apartamento4,Parque Bela Vista, Rua Professor Ildefonso de Mesquita, 113,173.66,4,3,2,630000
+0,venda,Loja,Ondina, Avenida Adhemar de Barros,,60.0,0,0,0,420000
+1,venda,Apartamento,Jardim Apipema, Rua Nita Costa,,110.0,3,1,3,650000
+2,venda,Sala,Centro, Travessa da Ajuda,2.0,31.8,0,0,0,98000
+3,venda,Apartamento,Liberdade, Estrada da Liberdade,170.0,63.0,2,0,1,125000
+4,venda,Sala,Pituba, Rua Rio Grande do Sul,332.0,28.32,0,0,0,140000
+5,venda,Apartamento,Trobogy, Rua Deputado Jairo Azi,161.0,62.0,2,1,2,150000
+6,venda,Casa,Vila Laura, Avenida Brasil,64.0,47.0,2,0,1,150000
+7,venda,Loja,Politeama, Rua Clóvis Spínola,40.0,30.0,0,0,1,150000
+8,venda,Sala,Stiep, Rua José Peroba,297.0,29.0,0,1,0,150000
+9,venda,Apartamento,Federação, Rua Engenheiro Jaime Zaverucha,277.0,47.0,2,0,1,180000
+10,venda,Sala,São Cristóvão, Avenida Luís Viana,13226.0,33.57,0,1,1,190000
+11,venda,Apartamento,Bonfim, Rua Parque São José,29.0,58.0,3,1,1,195000
+12,venda,Apartamento,Bonfim, Rua do Céu,17.0,65.0,2,1,1,198000
+13,venda,Apartamento,Ribeira, Rua Eládio Paim,71.0,86.0,2,1,1,200000
+14,venda,Casa,Politeama,,,56.0,2,0,2,200000
+15,venda,Casa Comercial,Calçada, Rua Nilo Peçanha,136.0,165.0,4,1,2,200000
+16,venda,Apartamento,Ribeira, Avenida Porto dos Mastros,1325.0,68.0,2,1,2,210000
+17,venda,Apartamento,Dois de Julho, Rua Tuiuti,112.0,80.0,2,0,1,210000
+18,venda,Apartamento,Bonfim, Rua Doutor Couto Maia,2.0,74.0,3,0,2,210000
+19,venda,Apartamento,Federação, Rua Engenheiro Lídio Campos,,65.0,3,1,2,215000
+20,venda,Apartamento,Nazaré, Rua Marujos do Brasil,193.0,94.0,2,0,3,225000
+21,venda,Apartamento,Santa Teresa, Rua Hélio de Oliveira,685.0,71.0,2,1,3,230000
+22,venda,Apartamento,São Cristóvão, Rua Leblon,210.0,200.0,4,0,1,230000
+23,venda,Apartamento,Amaralina, Rua Visconde de Itaborahy,,45.03,1,1,1,235000
+24,venda,Apartamento,Bonfim, Rua Jorge Simões,156.0,52.0,2,1,2,235000
+25,venda,Apartamento,Acupe de Brotas, Rua Cael,,67.72,2,1,2,240000
+26,venda,Sala,Caminho das Árvores, Rua Alceu Amoroso Lima,276.0,30.0,0,1,1,240000
+27,venda,Apartamento,Pituba, Avenida Manoel Dias da Silva,1469.0,44.01,1,1,2,250000
+28,venda,Apartamento,Santa Teresa, Rua Hélio de Oliveira,654.0,80.0,3,1,2,250000
+29,venda,Apartamento,Dois de Julho, Avenida Sete de Setembro,846.0,96.0,2,0,2,260000
+30,venda,Apartamento,Nazaré, Rua Francisco Ferraro,21.0,126.0,3,0,2,260000
+31,venda,Apartamento,Vila Laura, Rua Nilson Costa,246.0,70.0,3,1,1,260000
+32,venda,Apartamento,Campinas de Brotas, Vila São Roque,327.0,89.0,3,0,2,260000
+33,venda,Apartamento,Caminho de Areia, Avenida Caminho de Areia,160.0,84.0,3,1,2,260000
+34,venda,Apartamento,Cabula, Alameda Flamengo,190.0,48.0,2,1,2,265000
+35,venda,Apartamento,Federação, Rua Professor Severo Pessoa,189.0,117.0,2,1,1,280000
+36,venda,Apartamento,Pituba, Rua Pará,568.0,120.0,4,1,2,295000
+37,venda,Apartamento,Barbalho, Rua Professor Viegas,485.0,78.0,3,2,1,300000
+38,venda,Sala,Caminho das Árvores, Rua Coronel Almerindo Rehem,,54.78,0,2,2,300000
+39,venda,Apartamento,Parque Bela Vista, Rua Ararendá,136.0,120.0,4,1,1,320000
+40,venda,Casa,Massaranduba, Rua Santos Titara,69.0,267.0,2,1,2,320000
+41,venda,Casa,Roma, Rua Araújo Bulcão,21.0,246.0,6,1,4,320000
+42,venda,Casa,Stella Maris, Rua Paulo Freire,13.0,110.0,3,1,2,330000
+43,venda,Apartamento,Barra, Rua Engenheiro Milton Oliveira,115.0,54.52,2,1,2,350000
+44,venda,Apartamento,Graça, Rua Manoel Barreto,,90.0,3,0,2,350000
+45,venda,Apartamento,Nazaré, Rua Arquimedes Gonçalves,2.0,120.0,3,1,2,350000
+46,venda,Apartamento,Armação, Rua Rodolpho Coelho Cavalcante,142.0,87.0,3,1,3,350000
+47,venda,Apartamento,Vila Rui Barbosa, Rua Resende Costa,44.0,119.0,3,1,2,350000
+48,venda,Casa,Bonfim, Rua Doutor Couto Maia,43.0,182.0,3,0,2,350000
+49,venda,Apartamento,Santa Teresa, Rua Francisco Jorge,86.0,62.0,2,1,2,360000
+50,venda,Apartamento,Rio Vermelho, Rua Barro Vermelho,,95.0,1,2,2,380000
+51,venda,Apartamento,Vila Laura, Rua Genésio Sales,197.0,120.0,2,1,2,380000
+52,venda,Apartamento,Costa Azul, Rua Professor Gérson Pinto,281.0,132.0,3,1,3,380000
+53,venda,Apartamento,Monte Serrat, Rua Rio Itapicuru,12.0,110.0,3,1,3,385000
+54,venda,Apartamento,Bonfim, Rua Doutor Esmeraldino Bandeira,6.0,141.0,3,1,1,390000
+55,venda,Apartamento,Garcia, Rua Pacífico Pereira,32.0,106.0,3,0,2,390000
+56,venda,Apartamento,Parque Bela Vista, Rua Ararendá,,139.0,4,1,3,395000
+57,venda,Apartamento,Pituba, Rua Antenor Tupinambá,297.0,84.0,2,1,2,400000
+58,venda,Apartamento,Barra, Rua Barão de Sergy,,141.2,3,0,2,400000
+59,venda,Apartamento,Graça, Avenida Princesa Leopoldina,341.0,117.0,3,0,4,400000
+60,venda,Apartamento,Bonfim, Avenida Salvador,12.0,121.0,3,1,2,400000
+61,venda,Apartamento,Vila Laura, Rua Genésio Sales,22.0,120.0,3,2,3,420000
+62,venda,Casa,Mares, Rua Agrário de Menezes,50.0,94.0,4,1,3,420000
+63,venda,Casa,Barbalho, Rua Professor Palma,12.0,141.0,5,0,3,420000
+64,venda,Apartamento,Armação, Rua Rodolpho Coelho Cavalcante,280.0,90.0,3,1,1,431000
+65,venda,Apartamento,Pituba, Avenida Octávio Mangabeira,,50.0,1,1,1,440000
+66,venda,Apartamento,Candeal, Rua Alexandrina Ramalho,70.0,105.0,3,2,3,450000
+67,venda,Apartamento,Rio Vermelho, Rua Rodrigo Argolo,508.0,118.0,3,3,4,450000
+68,venda,Apartamento,Candeal, Rua Carlos Maron,,123.0,4,2,3,450000
+69,venda,Cobertura,Vila Laura, Rua Mário Rego dos Santos,390.0,145.55,3,2,4,450000
+70,venda,Casa,Candeal, Rua Dinah Silveira de Queirós,714.0,358.0,4,5,4,980000
+71,venda,Apartamento,Barra, Avenida Princesa Isabel,631.0,144.0,4,2,4,1150000
+72,venda,Casa,Pituba, Rua Artur de Sá Menezes,157.0,221.0,4,4,4,1200000
+73,venda,Apartamento,Campo Grande, Largo do Campo Grande,,267.58,4,3,3,1250000
+74,venda,Casa,Bonfim, Rua Henrique Dias,253.0,370.0,8,4,5,1400000
+75,venda,Apartamento,Patamares, Rua do Mangalô,277.0,208.0,3,3,4,1470000
+76,venda,Casa,Bonfim, Rua Baden Powell,25.0,258.0,4,3,5,1490000
+77,venda,Apartamento,Barra, Rua Cândido Portinari,,171.0,3,3,5,1500000
+78,venda,Casa,Bonfim, Avenida Dendezeiros do Bonfim,195.0,402.0,4,3,2,1500000
+79,venda,Casa,Jardim Apipema, Rua Quintino de Carvalho,,382.0,4,5,6,1700000
+80,venda,Pousada,Barra, Rua Recife,,169.0,12,0,12,1800000
+81,venda,Casa em condomínio,Federação, Rua Manoel Marques,,353.0,4,6,5,1880000
+82,venda,Pousada,Santo Antônio, Ladeira do Carmo,,655.0,12,0,7,1950000
+83,venda,Loja,Ribeira, Avenida Beira Mar,472.0,500.0,0,0,5,2000000
+84,venda,Apartamento,Barra, Rua Tenente Pires Ferreira,143.0,330.0,5,3,6,2100000
+85,venda,Casa Comercial,Barra, Rua Afonso Celso,507.0,600.0,14,0,16,2500000
+86,venda,Casa,Matatu, Rua Doutor Otaviano Pimenta,362.0,500.0,9,6,4,2600000
+87,venda,Casa,Itaigara, Rua Doutora Lígia Meira de Oliveira,7.0,790.0,4,7,4,2700000
+88,venda,Galpão,Valéria, Rua da Matriz,2.0,1500.0,0,4,0,3000000
+89,venda,Galpão,Caixa Dágua, Ladeira do Paiva,,1806.0,0,30,12,3400000
+90,venda,Prédio,Pituba, Rua Amazonas,,1080.0,0,25,11,6500000
+91,venda,Apartamento,Piatã, Rua Pasquale Gatto,394.0,60.0,2,1,1,305000
+92,venda,Apartamento,Rio Vermelho, Rua Barão do Triunfo,102.0,82.94,2,1,1,350000
+93,venda,Casa Comercial,Rio Vermelho, Rua Alagoinhas,100.0,300.0,3,2,4,1900000
+94,venda,Terreno,Horto Florestal, Avenida Santa Luzia,4.0,2733.6,0,0,0,3000000
+95,venda,Apartamento,Piatã, Rua Guaraçaima,642.0,60.0,2,1,2,340000
+96,venda,Apartamento,Luis Anselmo, Rua Luiz Anselmo,,100.0,2,1,2,320000
+97,venda,Casa,Praia do Flamengo, Rua Ipecaetá,2.0,300.0,0,2,3,650000
+98,venda,Apartamento,Barra, Rua José Sátiro de Oliveira,,119.0,3,1,3,440000
+99,venda,Apartamento,Jardim Apipema, Rua Plínio Moscoso,,166.0,3,1,3,450000
+100,venda,Apartamento,Barra, Rua Doutor João Pondé,,125.0,3,1,2,470000
+101,venda,Apartamento,Jardim Apipema, Rua Desembargador Demétrio Tourinho,,110.0,3,2,2,485000
+102,venda,Apartamento,Graça, Rua Martagão Gesteira,,119.04,3,2,3,550000
+103,venda,Apartamento,Jardim Apipema, Rua Professor Sabino Silva,,140.0,4,2,3,550000
+104,venda,Apartamento,Caminho das Árvores, Avenida Tancredo Neves,,200.0,4,2,4,565000
+105,venda,Apartamento,Chame-chame, Rua Professor Jorge Valente,,110.0,3,2,3,570000
+106,venda,Apartamento,Graça, Avenida Princesa Isabel,,150.0,4,1,3,600000
+107,venda,Apartamento,Ondina, Rua Professor Clementino Fraga,,197.0,4,4,4,665000
+108,venda,Apartamento,Ondina, Rua Senta Pua,,114.0,2,2,1,670000
+109,venda,Apartamento,Ondina, Rua Senta Pua,,114.0,2,2,1,670000
+110,venda,Apartamento,Jardim Apipema, Rua Plínio Moscoso,,240.0,4,2,4,720000
+111,venda,Apartamento,Jardim Apipema, Rua Doutor Rubens Chaves,,170.0,4,3,3,750000
+112,venda,Apartamento,Graça, Avenida Euclydes da Cunha,,92.0,2,2,2,800000
+113,venda,Apartamento,Pituba, Rua Ceará,,207.5,4,3,4,800000
+114,venda,Apartamento,Campo Grande, Largo do Campo Grande,,102.0,3,1,2,840000
+115,venda,Apartamento,Pituba, Avenida Paulo Vi,,263.15,4,2,4,980000
+116,venda,Apartamento,Acupe de Brotas, Ladeira do Acupe,,182.87,4,3,4,990000
+117,venda,Apartamento,Barra, Avenida Sete de Setembro,,159.0,2,2,3,1000000
+118,venda,Apartamento,Ondina, Rua Morro do Escravo Miguel,,270.0,4,4,5,1000000
+119,venda,Apartamento,Jardim Apipema, Rua Plínio Moscoso,,250.0,4,3,5,1090000
+120,venda,Apartamento,Barra, Rua Fernão de Magalhães,,230.0,3,3,5,1250000
+121,venda,Apartamento,Chame-chame, Rua Plínio Moscoso,,162.0,4,2,5,1300000
+122,venda,Apartamento,Jardim Apipema, Rua Christiano Ottoni,,305.0,4,4,5,1300000
+123,venda,Casa,Itaigara, Rua Hermann Neeser,575.0,301.09,3,2,5,1400000
+124,venda,Casa em condomínio,Ondina, Travessa Guedeville,,260.0,4,6,6,1750000
+125,venda,Apartamento,Jardim Apipema, Rua Plínio Moscoso,,332.16,4,4,5,1843000
+126,venda,Sala,Caminho das Árvores, Rua Frederico Simões,,28.5,0,1,1,210000
+127,venda,Apartamento,Jardim das Margaridas, Rua Joaquim Ferreira,,50.0,2,1,2,220000
+128,venda,Apartamento,Federação, Rua Jardim Federação,,73.0,2,1,3,220000
+129,venda,Apartamento,Barra, Avenida Princesa Isabel,,45.0,1,1,1,230000
+130,venda,Apartamento,Pituba,,,42.8,1,1,1,230000
+131,venda,Apartamento,Politeama, Rua Clóvis Spínola,40.0,75.62,2,1,2,235000
+132,venda,Apartamento,Acupe de Brotas, Ladeira do Acupe,,72.86,2,1,2,240000
+133,venda,Apartamento,Daniel Lisboa, Rua Padre Daniel Lisboa,31.0,70.54,3,1,2,250000
+134,venda,Apartamento,Jardim das Margaridas, Rua Joaquim Ferreira,,64.0,3,1,2,250000
+135,venda,Apartamento,Pituaçu, Rua André Gonçalves,,55.0,2,1,2,270000
+136,venda,Apartamento,Nazaré, Rua Professor Américo Simas,,105.0,3,0,2,270000
+137,venda,Apartamento,Barra, Avenida Princesa Isabel,526.0,47.0,1,1,1,280000
+138,venda,Sala,Federação, Rua Agnelo Brito,259.0,84.05,0,2,2,285000
+139,venda,Apartamento,Stiep, Conjunto Bancários do Stiep,,57.96,3,0,2,290000
+140,venda,Apartamento,Rio Vermelho, Rua do Mirante,58.0,44.0,1,1,1,300000
+141,venda,Apartamento,Federação, Rua Sérgio de Carvalho,,62.69,3,1,1,300000
+142,venda,Apartamento,Amaralina, Rua Campo Formoso,,65.55,3,1,2,300000
+143,venda,Apartamento,Jardim Apipema, Rua Plínio Moscoso,793.0,75.0,3,1,2,300000
+144,venda,Apartamento,Narandiba, Rua Amazonas,,57.7,2,2,1,310000
+145,venda,Apartamento,Doron, Rua Péricles Cardoso,,64.0,2,1,2,310000
+146,venda,Apartamento,Pituba, Rua Edmar Guimarães,41.0,52.4,1,1,1,330000
+147,venda,Casa,Matatu, Rua Adelaide Guimarães,175.0,136.0,3,0,3,330000
+148,venda,Apartamento,Vila Laura, Rua Bernardo Spector,81.0,111.0,3,0,2,335000
+149,venda,Apartamento,Costa Azul, Rua Monsenhor Gaspar Sadoc,,116.0,2,2,3,340000
+150,venda,Apartamento,Pituba, Alameda Florença,33.0,83.96,2,1,3,340000
+151,venda,Apartamento,Imbuí, Rua das Patativas,,69.47,3,1,3,340000
+152,venda,Apartamento,Candeal, Rua Alberto Pondé,59.0,119.91,3,2,2,350000
+153,venda,Apartamento,Federação, Rua do Trilho,195.0,73.0,2,1,2,360000
+154,venda,Apartamento,Caminho das Árvores, Avenida Tancredo Neves,1160.0,101.0,3,1,3,430000
+155,venda,Apartamento,Piatã, Rua da Gratidão,,81.0,3,1,2,430000
+156,venda,Apartamento,Graça, Rua Manoel Barreto,,91.0,2,1,2,450000
+157,venda,Apartamento,Stiep, Rua Edístio Pondé,226.0,100.79,3,2,3,450000
+158,venda,Apartamento,Resgate, Rua Edgard Loureiro,,92.0,3,2,4,480000
+159,venda,Apartamento,Parque Bela Vista, Avenida Antônio Carlos Magalhães,,89.0,3,1,2,495000
+160,venda,Apartamento,Caminho das Árvores, Rua Várzea de Santo Antônio,331.0,118.4,3,2,3,500000
+161,venda,Apartamento,Vila Laura, Rua Raul Leite,1470.0,70.0,2,1,1,525000
+162,venda,Apartamento,Brotas, Avenida Dom João Vi,,84.0,3,1,2,525000
+163,venda,Apartamento,Armação, Rua Rodolpho Coelho Cavalcante,,86.0,3,2,3,535000
+164,venda,Apartamento,Barra, Rua José Sátiro de Oliveira,6.0,151.09,3,1,2,540000
+165,venda,Apartamento,Pituba, Rua Colmar Americano da Costa,,81.0,3,2,3,550000
+166,venda,Apartamento,Itaigara, Rua Florentino Silva,,120.0,3,1,1,550000
+167,venda,Apartamento,Graça, Rua Desembargador Oscar Dantas,,113.43,3,1,3,550000
+168,venda,Apartamento,Pituba, Rua Artur Gomes de Carvalho,,86.0,3,2,3,550000
+169,venda,Apartamento,Armação, Rua Rodolpho Coelho Cavalcante,,72.0,2,2,1,560000
+170,venda,Apartamento,Itaigara, Rua Doutor Hosannah de Oliveira,,103.0,3,2,1,600000
+171,venda,Apartamento,Pituba, Rua Santa Helena,,180.0,4,2,2,600000
+172,venda,Apartamento,Pituaçu, Rua Marquês de Queluz,631.0,90.7,2,2,2,630000
+173,venda,Apartamento,Parque Bela Vista, Rua Professor Ildefonso de Mesquita,113.0,173.66,4,3,2,630000
 174,venda,Apartamento,Barra, Rua Afonso Celso,,50.87,1,1,1,650000
-175,venda,Apartamento4,Barra, Avenida Princesa Isabel,,149.88,4,1,1,650000
-176,venda,Apartamento4,Pituba, Rua Hilton Rodrigues,,138.0,4,2,4,660000
-177,venda,Apartamento4,Ondina, Rua Professor Edgar Mata,,210.0,4,2,4,670000
-178,venda,Apartamento3,Pituba, Rua João Bião de Cerqueira,,82.0,3,1,3,695000
-179,venda,Apartamento3,Caminho das Árvores, Rua do Benjoim, 170,105.07,3,2,3,700000
-180,venda,Apartamento3,Barra, Rua Guadalajara, 534,110.0,3,2,3,750000
-181,venda,Casaemcondomínio,Itapuã, Rua Flamengo,,127.0,2,2,4,750000
-182,venda,Apartamento3,Graça, Rua Humberto de Campos,,145.02,3,2,2,780000
-183,venda,Apartamento4,Pituba, Rua Hilton Rodrigues,,173.0,4,2,5,780000
-184,venda,Apartamento3,Graça, Rua da Graça,,220.0,3,1,3,790000
-185,venda,Cobertura,Candeal, Rua Alberto Pondé,,228.0,4,3,3,790000
-186,venda,Casa,Itapuã, Rua Arnaldo Francelino,,210.0,3,4,4,800000
-187,venda,Cobertura,Caminho das Árvores, Rua do Tarumã,,104.0,3,2,3,810000
-188,venda,Apartamento,Dois de Julho, Ladeira do Gabriel,,67.43,1,1,1,815000
-189,venda,CasaComercial,São Rafael, Rua Direta do Horizonte,,318.57,2,1,1,830000
-190,venda,Apartamento4,Graça, Rua Humberto de Campos, 18,212.0,4,3,3,860000
-191,venda,Cobertura,Armação, Rua General Bráulio Guimarães,,210.0,3,2,4,870000
-192,venda,Apartamento4,Graça, Rua Manoel Barreto, 305,148.0,4,4,4,900000
-193,venda,Casa,Itapuã, Rua Calazans Neto, 4,480.0,10,8,7,900000
-194,venda,Apartamento4,Vitória, Avenida Sete de Setembro, 1914,168.0,4,2,3,1100000
-195,venda,Casa,Stella Maris, Alameda Praia de Atalaia,,223.0,4,6,4,1200000
-196,venda,Apartamento2,Piatã, Rua Marcos Pinheiro, 70,50.0,2,1,1,242000
-197,venda,Apartamento2,Pernambués, Rua Thomaz Gonzaga, 58,68.0,2,1,2,300000
+175,venda,Apartamento,Barra, Avenida Princesa Isabel,,149.88,4,1,1,650000
+176,venda,Apartamento,Pituba, Rua Hilton Rodrigues,,138.0,4,2,4,660000
+177,venda,Apartamento,Ondina, Rua Professor Edgar Mata,,210.0,4,2,4,670000
+178,venda,Apartamento,Pituba, Rua João Bião de Cerqueira,,82.0,3,1,3,695000
+179,venda,Apartamento,Caminho das Árvores, Rua do Benjoim,170.0,105.07,3,2,3,700000
+180,venda,Apartamento,Barra, Rua Guadalajara,534.0,110.0,3,2,3,750000
+181,venda,Casa em condomínio,Itapuã, Rua Flamengo,,127.0,2,2,4,750000
+182,venda,Casa em condomínio,Stella Maris, Alameda Praia Garapuá,,280.0,4,3,6,1250000
+183,venda,Casa,Monte Serrat, Travessa Rio São Francisco,12.0,733.33,3,10,1,1400000
+184,venda,Apartamento,Graça, Avenida Euclydes da Cunha,,223.0,4,2,2,1500000
+185,venda,Casa,Matatu, Rua Adelaide Guimarães,85.0,600.0,5,2,5,1580000
+186,venda,Casa em condomínio,Piatã, Rua Juiz Orlando Heleno de Melo,119.0,557.0,4,2,3,1600000
+187,venda,Apartamento,Jardim Apipema, Rua Professor Sabino Silva,,475.0,4,5,5,2300000
+188,venda,Terreno,Caminho das Árvores, Alameda das Algarobas,,210.0,0,3,0,2500000
+189,venda,Prédio,Jardim Apipema, Rua Professor Sabino Silva,38.0,833.0,0,5,2,3950000
+190,venda,Terreno,Jardim Apipema, Rua Plínio Moscoso,1.0,923.0,0,0,0,4500000
+191,venda,Hotel,Barra, Rua Engenheiro Milton Oliveira,,3003.59,0,0,0,18000000
+192,venda,Apartamento,Machado, Rua Americano da Costa,101.0,55.0,2,0,1,153000
+193,venda,Apartamento,Pernambués, Rua Itapetinga,112.0,72.0,3,1,2,300000
+194,venda,Apartamento,Pernambués, Rua Thomaz Gonzaga,58.0,68.0,2,1,2,290000
+195,venda,Casa,Piatã, Avenida Orlando Gomes,,650.0,5,4,6,3000000
+196,venda,Apartamento,Piatã, Rua Marcos Pinheiro,70.0,50.0,2,1,1,242000
+197,venda,Apartamento,Pernambués, Rua Thomaz Gonzaga,58.0,68.0,2,1,2,300000
 198,venda,Apartamento,Candeal, Rua José Pedreira,,54.0,1,1,2,245000
-199,venda,Apartamento4,Jardim Apipema, Rua Professor Sabino Silva,,138.0,4,1,1,690000
-200,venda,Casaemcondomínio,Stella Maris, Alameda Praia Garapuá, 2340,158.0,4,6,4,1300000
-201,venda,Sala,Parque Bela Vista, Avenida Antônio Carlos Magalhães, 3129,39.86,0,1,1,170000
+199,venda,Apartamento,Jardim Apipema, Rua Professor Sabino Silva,,138.0,4,1,1,690000
+200,venda,Casa em condomínio,Stella Maris, Alameda Praia Garapuá,2340.0,158.0,4,6,4,1300000
+201,venda,Sala,Parque Bela Vista, Avenida Antônio Carlos Magalhães,3129.0,39.86,0,1,1,170000
 202,venda,Sala,Caminho das Árvores, Rua Frederico Simões,,27.0,0,1,1,146000
-203,venda,Apartamento3,Ondina, Avenida Oceânica,,154.0,3,2,3,500000
+203,venda,Apartamento,Ondina, Avenida Oceânica,,154.0,3,2,3,500000
 204,venda,Casa,Itaigara, Rua Oswaldo Valente,,486.0,4,7,1,1200000
 205,venda,Apartamento,Ondina, Avenida Oceânica,,28.43,1,1,1,270000
 206,venda,Sala,Barroquinha, Avenida José Joaquim Seabra,,40.0,0,0,0,110000
-207,venda,Apartamento3,Barra, Rua Guadalajara,,120.0,3,1,2,650000
-208,venda,Conjuntodesalas,Paralela, Avenida Luís Viana,,114.0,0,3,2,849000
-209,venda,Casa,Vila Laura, Rua Mário Rego dos Santos,,243.85,3,4,2,1000000
-210,venda,Apart-hotel,Ondina, Avenida Adhemar de Barros,,40.0,1,1,1,380000
-211,venda,Apartamento3,Matatu, Rua Lalita Costa, 236,85.0,3,1,3,269000
-212,venda,Apartamento4,Pituba, Avenida Manoel Dias da Silva,,240.0,4,2,3,580000
-213,venda,Sala,Amaralina, Rua das Ubaranas,,59.0,0,1,1,145000
-214,venda,Cobertura,Canela, Rua Marechal Floriano,,104.0,2,4,3,780000
-215,venda,Apartamento2,Roma, Rua Roberto Corrêa, 14,61.0,2,0,2,150000
-216,venda,Apartamento2,Massaranduba, Rua Santos Titara, 141,106.0,2,1,2,198000
-217,venda,Casa,Vila Rui Barbosa, Rua Primeiro de Maio, 61,91.0,3,0,2,200000
-218,venda,Apartamento2,Monte Serrat, Rua Rio São Francisco, 73,69.0,2,0,1,210000
-219,venda,Apartamento3,Roma, Rua Francisco Souza, 7,60.0,3,1,2,210000
-220,venda,Apartamento3,Nazaré, Ladeira de Nazaré, 14,137.0,3,0,2,230000
-221,venda,Apartamento3,Massaranduba, Rua Santos Titara, 141,168.0,3,0,2,235000
-222,venda,Apartamento3,Engenho Velho da Federação, Avenida Cardeal da Silva, 188,122.21,3,0,2,250000
-223,venda,Apartamento3,Santa Teresa, Rua Hélio de Oliveira, 683,77.0,3,1,2,250000
-224,venda,Prédio,Barroquinha, Avenida José Joaquim Seabra, 44,380.0,14,0,16,800000
-225,venda,Terreno,Matatu, Rua Arlindo Fragoso,,600.0,0,0,0,1000000
-226,venda,Casa,Bonfim, Rua Baden Powell, 18,310.0,4,3,3,1100000
-227,venda,Conjuntodesalas,Pituba, Avenida Professor Magalhães Neto, 1450,189.0,0,4,4,1160000
-228,venda,Loja,Ribeira, Praça General Osório, 103,700.0,0,0,4,1800000
-229,venda,Casa,Jardim Apipema, Rua Doutor Rubens Chaves,,550.0,2,2,1,2250000
-230,venda,Terreno,Caminho das Árvores, Alameda das Algarobas,,206.0,0,3,0,2500000
-231,venda,Terreno,Caminho das Árvores, Alameda das Algarobas,,361.25,0,2,0,2500000
-232,venda,Prédio,Boca do Rio, Avenida Jorge Amado,,470.0,0,14,47,4000000
-233,venda,Sala,Canela, Avenida Reitor Miguel Calmon, 1210,44.36,0,1,1,140000
-234,venda,Apartamento2,Engenho Velho de Brotas, Avenida Laurindo Régis,,59.0,2,0,1,150000
-235,venda,Sala,Brotas, Avenida Antônio Carlos Magalhães,,27.33,0,1,1,155000
-236,venda,Apart-hotel,Caminho das Árvores, Rua Frederico Simões,,27.7,1,1,1,160000
-237,venda,Apart-hotel,Caminho das Árvores, Rua Frederico Simões,,27.45,1,1,1,160000
-238,venda,Apartamento2,Jardim das Margaridas, Rua Joaquim Ferreira,,55.0,2,1,2,175000
-239,venda,Apartamento2,Itapuã, Rua Luís Eduardo Magalhães,,59.0,2,1,1,180000
-240,venda,Apartamento,Dois de Julho, Avenida Sete de Setembro,,52.0,1,1,2,190000
-241,venda,Apartamento2,Saúde, Rua General Senna Campos,,95.0,2,1,1,195000
-242,venda,Apartamento,Parque Bela Vista, Rua Aratuba, 233,41.44,1,1,1,197000
-243,venda,Apartamento2,Vila Laura, Rua Laura Costa,,46.0,2,1,1,200000
-244,venda,Flat,Caminho das Árvores, Rua Alceu Amoroso Lima,,26.0,1,1,1,200000
-245,venda,Apartamento3,Brotas, Avenida Dom João Vi,,90.0,3,1,2,210000
-246,venda,Apartamento,Amaralina, Rua Visconde de Itaborahy, 1112,36.71,1,1,1,220000
-247,venda,Sala,Caminho das Árvores, Rua Alceu Amoroso Lima,,43.18,0,2,0,220000
-248,venda,Apartamento,Santa Teresa, Rua Parambu, 559,38.09,1,1,1,230000
-249,venda,Apartamento,Caminho das Árvores, Rua da Alfazema,,29.0,1,1,1,235000
-250,venda,Apartamento2,Engenho Velho de Brotas, Rua Boa Vista de Brotas,,54.02,2,1,1,240000
-251,venda,Apartamento2,Pituba, Alameda Pádua,,51.94,2,1,2,240000
-252,venda,Apartamento2,Brotas, Rua Irmã Dulce,,72.15,2,1,3,300000
-253,venda,Apartamento3,Pituba, Rua Amazonas,,85.6,3,1,2,300000
-254,venda,Apartamento3,Pituba, Rua Fernando Menezes de Góes, 345,123.0,3,1,3,300000
-255,venda,Apartamento2,Pituba, Rua Pará, 448,82.0,2,1,3,320000
-256,venda,Apartamento3,Federação, Rua Sérgio de Carvalho, 801,64.0,3,1,2,320000
-257,venda,Conjuntodesalas,Parque Bela Vista, Avenida Antônio Carlos Magalhães,,58.0,0,2,2,320000
-258,venda,Apartamento,Piatã, Avenida Octávio Mangabeira,,55.28,1,1,1,330000
-259,venda,Apartamento3,Armação, Rua Rodolpho Coelho Cavalcante,,92.0,3,1,1,330000
-260,venda,Apartamento3,Pituba, Rua Sotero Monteiro, 85,106.66,3,1,2,330000
-261,venda,Apartamento3,Jardim Placaford, Rua Engenheiro Erociano da Cruz Neves,,85.0,3,1,2,330000
-262,venda,Apartamento2,Graça, Rua Engenheiro Celso Torres,,90.0,2,1,3,335000
-263,venda,Apartamento2,Pituba, Rua Pará,,82.0,2,1,3,350000
-264,venda,Apartamento2,Pituba, Alameda Carrara,,79.38,2,2,2,350000
-265,venda,Apartamento2,Costa Azul,,,92.0,2,1,3,350000
-266,venda,Apartamento2,Canela,,,80.47,2,1,3,350000
-267,venda,Apartamento3,Chame-chame, Rua Comendador Francisco Pedreira,,98.11,3,0,2,350000
-268,venda,Apartamento3,Pituba, Rua Fernando Menezes de Góes, 245,121.46,3,1,3,350000
-269,venda,Apartamento3,Pituba, Alameda Paradiso, 31,97.0,3,0,2,350000
-270,venda,Apartamento3,Armação, Rua Rodolpho Coelho Cavalcante,,92.0,3,1,3,350000
-271,venda,Apartamento2,Cabula, Rua Silveira Martins, 59,60.89,2,2,1,360000
-272,venda,Apartamento3,Parque Bela Vista, Rua Professor Ildefonso de Mesquita, 226,88.74,3,1,3,360000
-273,venda,Apartamento3,Narandiba, Rua Amazonas,,75.0,3,1,3,370000
-274,venda,Apartamento2,Candeal, Alameda dos Jasmins,,55.79,2,1,1,380000
-275,venda,Apartamento3,Garcia, Rua Pacífico Pereira,,83.95,3,0,1,380000
-276,venda,Apartamento3,Garcia, Avenida Leovigildo Filgueiras,,90.0,3,0,2,385000
-277,venda,Apartamento3,Pituba, Rua Sargento Astrolábio, 80,78.17,3,1,2,390000
-278,venda,Apartamento3,Stiep, Rua Edístio Pondé, 301,84.1,3,2,3,390000
-279,venda,Apartamento2,Caminho das Árvores, Rua Graviola,,85.32,2,1,2,398000
-280,venda,Apartamento3,Garcia, Rua Pacífico Pereira,,84.0,3,1,2,450000
-281,venda,Cobertura,Graça, Rua Comendador Horácio Urpia,,90.0,2,1,3,480000
-282,venda,Apartamento2,Pituba, Rua Piauí,,72.0,2,1,2,490000
-283,venda,Apartamento2,Pituba, Rua Engenheiro Adhemar Fontes,,108.0,2,1,3,500000
-284,venda,Apartamento4,Pituba, Rua Artur de Sá Menezes, 302,155.6,4,2,3,500000
-285,venda,Apartamento4,Pituba, Rua Rubem Berta, 324,142.0,4,2,3,500000
-286,venda,Cobertura,Pituba, Rua Espírito Santo,,138.5,2,1,3,500000
-287,venda,Loja,Vila Laura, Rua Raul Leite,,64.0,0,1,0,500000
-288,venda,Apartamento2,Pituba, Rua Clara Nunes,,79.23,2,1,3,530000
-289,venda,Apartamento3,Costa Azul, Rua Desembargador Manoel Pereira, 98,152.69,3,2,3,530000
-290,venda,Apartamento2,Pituba, Avenida Paulo Vi,,96.0,2,2,2,545000
-291,venda,Apartamento3,Pituba, Rua General Antônio Sampaio,,134.83,3,2,2,550000
-292,venda,Apartamento3,Caminho das Árvores, Rua do Timbó, 726,110.0,3,2,3,550000
-293,venda,Apartamento4,Pituba, Rua Artur de Sá Menezes,,275.42,4,3,3,550000
-294,venda,Casaemcondomínio,Piatã, Rua Engenheiro Erociano da Cruz Neves,,196.0,4,2,5,550000
-295,venda,Apartamento2,Pituba, Rua Colmar Americano da Costa,,78.0,2,2,2,560000
-296,venda,Apartamento3,Caminho das Árvores, Rua das Avencas,,85.0,3,1,2,565000
-297,venda,Apartamento,Rio Vermelho, Rua Fonte do Boi, 216,77.48,1,0,2,580000
-298,venda,Apartamento3,Pituba, Rua João Bião de Cerqueira, 212,106.06,3,2,3,590000
-299,venda,Apartamento3,Ondina, Rua Baependi,,132.0,3,1,3,600000
-300,venda,Apartamento3,Itaigara, Rua Wanderley Pinho,,127.0,3,2,3,620000
-301,venda,Apartamento3,Itaigara, Rua Wanderley Pinho,,114.0,3,2,1,635000
-302,venda,Apartamento3,Pituba, Rua Manoel Andrade, 252,99.68,3,2,3,640000
-303,venda,Apartamento3,Pituba, Rua João Bião de Cerqueira, 212,106.06,3,2,4,640000
-304,venda,Apartamento2,Horto Florestal, Rua Conselheiro Corrêa de Menezes,,104.22,2,2,4,650000
-305,venda,Apartamento2,Graça, Rua Manoel Barreto,,82.0,2,2,2,650000
-306,venda,Apartamento3,Armação, Rua Anquises Reis,,97.0,3,2,3,650000
-307,venda,Apartamento4,Barra, Rua Florianópolis, 110,167.0,4,2,3,650000
-308,venda,Cobertura,Federação, Rua Caetano Moura, 609,228.0,2,3,3,650000
-309,venda,Sala,Caminho das Árvores, Avenida Tancredo Neves,,102.6,0,2,2,650000
-310,venda,Apartamento2,Paralela, Avenida Luís Viana,,84.0,2,1,2,675000
-311,venda,Apartamento3,Itaigara, Rua Wanderley Pinho,,155.0,3,2,2,680000
-312,venda,Apartamento2,Horto Florestal, Rua Waldemar Falcão,,90.0,2,2,3,690000
-313,venda,Apartamento4,Pituba, Rua Messer do Amor,,135.0,4,2,2,700000
-314,venda,Apartamento4,Caminho das Árvores, Rua do Ébano,,181.0,4,2,4,700000
-315,venda,Apartamento4,Caminho das Árvores, Rua Várzea de Santo Antônio, 621,140.0,4,2,4,700000
-316,venda,Apartamento3,Graça, Avenida Euclydes da Cunha,,130.0,3,1,3,710000
-317,venda,Apartamento3,Pituba, Rua Renato de Menezes Berenguer, 185,110.25,3,2,4,720000
-318,venda,Apartamento4,Garcia, Avenida Leovigildo Filgueiras,,140.0,4,1,1,730000
-319,venda,Apartamento3,Graça, Rua Martagão Gesteira,,200.0,3,3,2,750000
-320,venda,Apartamento3,Pituba, Rua Altino Serbeto de Barros,,131.2,3,2,1,750000
-321,venda,Apartamento4,Armação, Rua Alfredo Gomes de Oliveira,,213.0,4,2,4,750000
-322,venda,Apartamento4,Pituba, Rua Hilton Rodrigues,,193.82,4,2,5,780000
-323,venda,Apartamento4,Pituba, Rua Ceará,,201.0,4,2,4,800000
-324,venda,Cobertura,Pituba, Rua Território do Guaporé,,327.0,4,3,3,800000
-325,venda,Pontocomercial,Rio Sena, Rua Pedro de Alencar, 345,1084.0,0,0,1,800000
-326,venda,Apartamento4,Pituba, Rua Machado Neto,,202.0,4,2,4,815000
-327,venda,Apartamento4,Jardim Apipema, Rua Plínio Moscoso,,128.43,4,2,3,850000
-328,venda,Apartamento4,Pituba, Rua Altino Serbeto de Barros,,143.22,4,2,3,850000
-329,venda,Casa,Daniel Lisboa, Rua Dom Jerônimo Thome da Silva,,380.0,3,2,4,850000
-330,venda,Apartamento3,Candeal, Rua Leonor Calmon,,170.54,3,3,3,900000
-331,venda,Apartamento3,Graça, Rua Djalma Ramos,,191.0,3,2,1,900000
-332,venda,Apartamento4,Pituba, Rua Tenente Fernando Tuy,,137.0,4,2,4,950000
-333,venda,CasaComercial,Pituba, Rua das Angélicas,,157.0,0,4,3,950000
-334,venda,Dúplex,Itaigara, Rua Érico Veríssimo,,135.0,2,2,3,960000
-335,venda,Cobertura,Pituba, Rua Hilton Rodrigues,,223.0,3,3,3,980000
-336,venda,Conjuntodesalas,Caminho das Árvores, Rua Soldado Luiz Gonzaga das Virgens,,160.0,0,4,4,1000000
-337,venda,Cobertura,Pituba, Rua Manoel Andrade,,200.0,3,3,4,1070000
-338,venda,Apartamento3,Barra, Rua Fernão de Magalhães,,169.0,3,1,2,1100000
-339,venda,Apartamento4,Pituba, Rua Alberto Valença,,148.0,4,2,4,1130000
-340,venda,Cobertura,Pituba, Rua Marechal Andréa, 312,178.93,3,4,4,1150000
-341,venda,Apartamento4,Itaigara, Rua Doutor Antônio Monteiro,,201.47,4,4,4,1200000
-342,venda,Casaemcondomínio,Pituba, Rua Teófilo Braga, 154,128.63,3,2,3,1200000
-343,venda,Cobertura,Pituba, Rua Marechal Andréa,,303.36,4,4,3,1200000
-344,venda,Cobertura,Pituba, Rua Hilton Rodrigues,,216.35,4,4,5,1240000
-345,venda,Casa,Barra, Avenida Sete de Setembro,,360.0,6,0,7,1250000
-346,venda,Apartamento4,Campo Grande, Largo do Campo Grande,,219.0,4,2,4,1280000
-347,venda,Apartamento4,Caminho das Árvores, Rua do Benjoim,,196.0,4,3,5,1280000
-348,venda,Sala,Graça, Rua Humberto de Campos,,260.0,0,4,4,1300000
-349,venda,Apartamento4,Campo Grande, Largo do Campo Grande,,240.0,4,2,3,1350000
-350,venda,Apartamento5,Caminho das Árvores, Rua Graviola,,436.0,5,5,1,2050000
-351,venda,Apartamento4,Rio Vermelho, Travessa Bartholomeu de Gusmão,,273.0,4,4,6,2200000
-352,venda,Apartamento5,Pituba, Rua Antenor Tupinambá,,447.63,5,8,1,2200000
-353,venda,Casa,Caminho das Árvores, Alameda dos Umbuzeiros,,337.0,3,3,3,2250000
-354,venda,Casa,Canela, Rua Cláudio Manoel da Costa,,1002.0,4,2,5,2500000
-355,venda,Prédio,Pituba, Avenida Manoel Dias da Silva,,600.0,0,0,0,3000000
-356,venda,Motel,Bonfim, Rua Henrique Dias,,750.0,33,6,33,3100000
-357,venda,Hotel,Liberdade, Largo do Guarani,,2200.0,40,27,0,3400000
-358,venda,Apartamento4,Jardim Apipema, Rua Professor Sabino Silva,,493.0,4,5,6,3500000
-359,venda,Casaemcondomínio,Alphaville I, Avenida Alphaville, 0,370.0,4,4,6,3800000
-360,venda,Casaemcondomínio,Piatã, Avenida Orlando Gomes,,501.0,6,5,6,4650000
-361,venda,Casaemcondomínio,Alphaville I, Residencial Itaparica, 555,1200.0,4,10,9,5000000
-362,venda,Casaemcondomínio,Alphaville I, Avenida Alphaville,,500.0,3,5,5,7800000
-363,venda,Apartamento4,Bonfim, Rua Parque São José, 1,110.0,4,0,3,315000
-364,venda,Apartamento2,Parque Bela Vista, Rua Assaré,,60.0,2,2,2,370000
-365,venda,Casa,Piatã, Rua Doutor Arnaldo Santana,,230.0,5,4,5,800000
-366,venda,Apartamento3,Barra, Avenida Sete de Setembro,,104.6,3,1,2,850000
-367,venda,Apartamento4,Pituba, Alameda Catânia,,130.0,4,2,4,810000
-368,venda,Sala,Pituba, Avenida Professor Magalhães Neto, 1450,53.0,0,1,1,320000
-369,venda,Apartamento2,Luiz Anselmo, Rua Hélio de Oliveira,,55.0,2,1,1,190000
-370,venda,Apartamento4,Pituba, Rua Mato Grosso, 478,128.06,4,2,4,640000
-371,venda,Sala,Caminho das Árvores, Rua Coronel Almerindo Rehem,,30.0,0,1,1,210000
-372,venda,Sala,Barra, Avenida Oceânica,,65.64,0,2,1,707599
-373,venda,Sala,Pituba, Rua Professor Leopoldo Amaral,,39.81,0,1,1,330000
-374,venda,Sala,Pituba, Avenida Manoel Dias da Silva,,25.73,0,1,1,145000
-375,venda,CasaComercial,Barra, Avenida Oceânica,,582.0,0,4,23,5500000
-376,venda,Apartamento2,São Marcos, Rua Carlos Marighella,,60.0,2,0,1,99000
-377,venda,Apartamento,Engenho Velho de Brotas, Rua Frederico Costa, 685,55.0,1,1,1,220000
-378,venda,Sala,Caminho das Árvores, Rua Coronel Almerindo Rehem,,27.0,0,1,0,200000
-379,venda,Sala,Caminho das Árvores, Rua Ewerton Visco,,64.0,0,1,1,460000
-380,venda,CasaComercial,Acupe de Brotas, Avenida General Graça Lessa,,800.0,0,15,8,2200000
-381,venda,Apartamento5,Graça, Rua da Graça,,400.0,5,4,7,2400000
-382,venda,Casa,Caminho das Árvores, Alameda das Chuvas de Ouro,,595.0,6,4,6,4000000
-383,venda,Terreno,Campo Grande, Ladeira da Fonte,,1315.02,0,0,0,5100000
-384,venda,Prédio,Paralela, Avenida Luís Viana, 2841,7705.0,0,200,0,80000000
-385,venda,Apartamento2,Matatu, Rua Arlindo Fragoso, 98,74.0,2,1,2,210000
-386,venda,Apartamento,Politeama,,,40.0,1,0,1,110000
-387,venda,Sala,Stiep, Rua José Peroba,,41.67,0,1,1,180000
-388,venda,Apartamento2,Engenho Velho de Brotas, Rua Padre Luiz Filgueiras,,60.0,2,0,1,205000
-389,venda,Apartamento2,Federação, Rua Sérgio de Carvalho,,69.7,2,1,1,230000
-390,venda,Casa,Cidade Nova, Rua Primeiro de Janeiro,,103.7,4,0,2,300000
-391,venda,Sala,Graça, Rua Humberto de Campos,,82.0,0,1,0,720000
-392,venda,Apartamento3,Rio Vermelho, Rua Nelson Galo,,135.0,3,2,2,1000000
-393,venda,Casa,Piatã, Rua Camuripeba,,530.0,5,4,4,1000000
-394,venda,Casa,Itapuã, Avenida Luís Eduardo Magalhães,,2400.0,5,5,6,1850000
-395,venda,Prédio,Chame-chame, Rua Professor Sabino Silva,,960.0,0,14,0,5500000
-396,venda,Apartamento2,Águas Claras, Rua Benedito Jenkis,,58.0,2,0,1,110000
-397,venda,Pontocomercial,Pau da Lima, Travessa São Domingos,,480.0,0,0,23,200000
-398,venda,Sala,Parque Bela Vista, Avenida Antônio Carlos Magalhães, 2487,37.12,0,1,1,200000
-399,venda,Apartamento3,Uruguai, Rua Belamita,,100.0,3,1,2,220000
-400,venda,Apartamento3,Roma, Rua Frederico Lisboa,,70.0,3,0,2,240000
-401,venda,Village,Nova Brasília de Itapuã, Alameda Itagimirim,,82.72,2,1,1,260000
-402,venda,Sala,Costa Azul, Rua Arthur de Azevedo Machado,,32.05,0,1,1,270000
-403,venda,Casa,Rio Vermelho, Rua Pedra da Sereia, 26,310.0,4,0,2,290000
-404,venda,Apartamento2,Santa Teresa, Rua Parambu, 181,65.0,2,1,0,380000
-405,venda,Apartamento3,Vila Laura, Rua Raul Leite,,86.0,3,1,3,560000
-406,venda,Apartamento3,Vitória, Avenida Sete de Setembro,,185.0,3,3,4,2500000
-407,venda,Apartamento2,Massaranduba, Largo Juracy Magalhães,,100.0,2,0,2,120000
-408,venda,Sala,Engenho Velho de Brotas, Avenida Vasco da Gama,,26.26,0,1,0,120000
-409,venda,Sala,Parque Bela Vista, Avenida Antônio Carlos Magalhães, 2573,31.83,0,1,1,125000
-410,venda,Sala,Parque Bela Vista, Avenida Antônio Carlos Magalhães, 2573,33.88,0,1,1,125000
-411,venda,Sala,Parque Bela Vista, Avenida Antônio Carlos Magalhães, 2573,31.83,0,1,1,125000
-412,venda,Sala,Parque Bela Vista, Avenida Antônio Carlos Magalhães, 2573,33.83,0,1,1,125000
-413,venda,Sala,Itaigara, Avenida Antônio Carlos Magalhães, 811,34.0,0,1,1,155000
-414,venda,Apartamento3,Pernambués, Rua Amargosa, 1121,113.5,3,1,3,175000
-415,venda,Apartamento2,Barbalho, Ladeira do Arco,,49.71,2,1,1,190000
-416,venda,Apartamento2,Pernambués, Rua Thomaz Gonzaga,,47.0,2,1,1,200000
-417,venda,Apartamento2,Pernambués, Rua dos Bioquímicos, 106,64.0,2,2,2,235000
-418,venda,Apartamento2,Daniel Lisboa, Rua Rodolfo Pimentel, 154,74.12,2,1,2,240000
-419,venda,Apartamento2,Federação, Rua Jardim Federação,,56.61,2,1,2,245000
-420,venda,Apartamento2,Jardim Placaford, Rua Professor David Mendes Pereira, 83,68.5,2,1,2,250000
-421,venda,Apartamento2,Amaralina, Avenida Amaralina,,90.0,2,1,2,255000
-422,venda,Prédio,Comércio, Rua Conselheiro Lafayete, 16,240.0,0,0,3,260000
-423,venda,Apartamento2,Candeal, Rua Carlos Maron, 185,75.0,2,1,2,290000
-424,venda,Apartamento2,Graça, Rua Almirante Cleto Japi Assu,,90.0,2,0,1,315000
-425,venda,Apartamento2,Candeal, Alameda Monte Carmelo, 351,72.0,2,1,3,320000
-426,venda,Apartamento2,Pituba, Rua Colmar Americano da Costa,,65.0,2,1,2,450000
-427,venda,Apartamento3,Barra, Rua Afonso Celso,,103.0,3,1,2,500000
-428,venda,Apartamento3,Canela, Rua Marechal Floriano, 53,108.04,3,1,3,500000
-429,venda,Apartamento3,Pituba, Rua Hilton Rodrigues,,117.0,3,2,3,780000
-430,venda,Apartamento4,Pituba, Rua Alberto Valença, 50,160.0,4,2,5,965000
-431,venda,Casaemcondomínio,Stella Maris, Alameda Praia de Corumbé,,400.0,5,2,5,1450000
-432,venda,Apartamento4,Itaigara, Rua Artesão João da Prata,,273.0,4,4,6,1650000
-433,venda,Apartamento3,Campo Grande, Largo do Campo Grande, 33,152.0,3,1,3,400000
-434,venda,Apartamento2,Dois de Julho, Rua Augusto Franca,,72.0,2,0,1,200000
-435,venda,Apartamento2,Dois de Julho, Avenida Sete de Setembro,,65.0,2,0,1,220000
-436,venda,Apartamento2,Garcia, Rua Pacífico Pereira, 54,55.0,2,1,1,260000
-437,venda,Apartamento3,Brotas, Rua Doutor Filinto Borja,,95.0,3,1,1,280000
-438,venda,Apartamento3,Acupe de Brotas, Ladeira do Acupe,,105.0,3,1,3,299000
-439,venda,Apartamento2,Matatu, Rua Lalita Costa,,64.0,2,1,2,350000
-440,venda,Apartamento3,Tororó, Rua Futuro do Tororó, 11,137.0,3,0,2,350000
-441,venda,Apartamento3,Pituba, Rua João Bião de Cerqueira,,70.19,3,1,3,350000
-442,venda,Cobertura,Vila Laura, Rua Raul Leite,,97.28,3,2,3,380000
-443,venda,Sala,Ondina, Avenida Anita Garibaldi,,119.92,0,2,3,420000
-444,venda,Casa,Nazaré, Rua do Bângala,,192.0,3,1,1,530000
-445,venda,Apartamento4,Candeal, Rua Alberto Pondé,,154.0,4,2,2,580000
-446,venda,CasaComercial,Rio Vermelho, Rua Almirante Barroso,,480.0,4,2,4,600000
-447,venda,CasaComercial,Barbalho, Rua Engenheiro João Pimenta Bastos,,200.0,0,3,8,650000
-448,venda,Apartamento3,Pituba, Rua Hilton Rodrigues,,193.0,3,2,5,780000
-449,venda,CasaComercial,Rio Vermelho, Rua Juazeiro,,297.5,0,5,3,800000
-450,venda,Casa,Pituba, Rua das Angélicas,,356.0,4,4,4,1200000
-451,venda,Apartamento4,Horto Florestal, Rua Waldemar Falcão,,195.36,4,3,4,1280000
-452,venda,Casa,Itaigara, Rua Oswaldo Valente, 359,257.0,4,4,5,1500000
-453,venda,Prédio,Engenho Velho da Federação, Avenida Vasco da Gama,,579.0,0,7,2,1900000
-454,venda,Casa,Candeal, Rua Dinah Silveira de Queirós,,389.37,3,4,3,2000000
-455,venda,Casaemcondomínio,Alphaville I, Residencial Itaparica, 0,550.0,5,5,7,2650000
-456,venda,Apartamento4,Graça, Avenida Euclydes da Cunha,,261.0,4,4,5,3300000
-457,venda,Casaemcondomínio,Candeal, Rua Professor Basílio Catalá Castro,,1110.0,4,4,5,3400000
-458,venda,Apartamento2,Santa Teresa, Rua Karol Wojtyla,,50.0,2,1,1,260000
-459,venda,Apartamento3,Imbuí, Avenida Jorge Amado, 1027,70.43,3,1,2,420000
-460,venda,Apartamento2,Barra, Rua Greenfeld,,95.9,2,0,1,600000
-461,venda,Apartamento2,Ondina, Rua Senta Pua, 303,97.0,2,2,2,840000
-462,venda,Sala,Barra, Avenida Oceânica,,25.16,0,1,0,240000
-463,venda,Apartamento3,Pituba, Alameda Gênova,,66.0,3,1,2,260000
-464,venda,Apartamento2,Amaralina, Rua do Balneário,,74.54,2,1,2,265000
-465,venda,Apartamento3,Politeama, Rua Politeama de Cima, 25,86.0,3,0,2,300000
-466,venda,Apartamento3,Pituba, Rua Piauí,,115.0,3,1,3,320000
-467,venda,Apartamento2,Rio Vermelho,,,75.91,2,0,3,330000
-468,venda,Apartamento,Pituba, Avenida Octávio Mangabeira,,38.06,1,1,1,350000
-469,venda,Apartamento2,Graça, Avenida Euclydes da Cunha, 884,111.23,2,1,2,350000
-470,venda,Apartamento3,Pituba, Avenida Manoel Dias da Silva,,100.0,3,0,2,360000
-471,venda,Apartamento3,Brotas, Avenida Dom João Vi, 107,70.66,3,1,3,380000
-472,venda,Apartamento,Armação, Rua Gilberto Amado,,48.08,1,1,1,390000
-473,venda,Apartamento,Armação, Avenida Octávio Mangabeira, 3801,59.62,1,1,1,395000
-474,venda,Apartamento2,Pituba, Rua Colmar Americano da Costa,,65.74,2,1,2,400000
-475,venda,Apart-hotel,Ondina, Avenida Oceânica, 2400,40.44,1,1,1,400000
-476,venda,Apartamento3,Parque Bela Vista, Avenida Antônio Carlos Magalhães, 3359,88.82,3,1,2,430000
-477,venda,Apartamento3,Parque Bela Vista, Avenida Antônio Carlos Magalhães, 3359,88.82,3,2,3,450000
-478,venda,Apartamento3,Pituba, Rua Pernambuco,,119.32,3,2,3,500000
-479,venda,Loja,Armação, Rua João Mendes da Costa Filho, 169,102.15,0,1,0,530000
-480,venda,Apartamento3,Patamares, Rua do Mangalô, 289,140.58,3,2,4,540000
-481,venda,Apartamento3,Pituba, Rua Artur Gomes de Carvalho,,85.33,3,2,2,550000
-482,venda,Apartamento3,Pituba,,,99.22,3,2,3,580000
-483,venda,Apartamento3,Pituba, Rua Hilton Rodrigues,,116.0,3,2,1,600000
-484,venda,Apartamento3,Itaigara, Rua Padre Manoel Barbosa,,120.25,3,2,3,650000
-485,venda,Apartamento3,Pituba, Rua Clara Nunes,,94.45,3,1,3,650000
-486,venda,Apartamento3,Garcia, Rua Pacífico Pereira,,120.0,3,2,2,700000
-487,venda,Apartamento3,Caminho das Árvores, Rua Clarival do Prado Valladares,,116.3,3,2,3,700000
-488,venda,Apartamento4,Caminho das Árvores, Rua Graviola,,214.61,4,3,1,750000
-489,venda,Apartamento4,Graça, Rua Comendador Horácio Urpia, 1,151.76,4,3,3,750000
-490,venda,Apartamento4,Pituba, Rua Manoel Andrade,,120.0,4,2,3,750000
-491,venda,Apartamento,Ondina, Avenida Oceânica,,72.0,1,1,1,790000
-492,venda,Apartamento4,Pituba, Rua Machado Neto,,211.49,4,2,4,850000
-493,venda,CasaComercial,Amaralina, Rua Visconde de Itaborahy, 639,332.0,3,4,2,850000
-494,venda,Apartamento3,Barra, Avenida Oceânica, 265,128.32,3,1,2,890000
-495,venda,Apartamento4,Caminho das Árvores, Rua Clarival do Prado Valladares,,168.41,4,2,5,890000
-496,venda,Apartamento4,Vitória, Avenida Sete de Setembro,,207.0,4,1,1,900000
-497,venda,Apartamento3,Piatã, Avenida Octávio Mangabeira,,115.0,3,3,3,950000
-498,venda,Casaemcondomínio,Itapuã, Rua General Severino Filho, 750,461.0,4,2,6,970000
-499,venda,Cobertura,Caminho das Árvores, Rua Graviola, 322,166.25,3,2,1,1000000
-500,venda,Casa,Itapuã, Rua do Teatro,,238.0,3,7,3,1150000
-501,venda,Apartamento4,Pituba, Rua Manoel Gomes de Mendonça,,158.56,4,4,4,1300000
-502,venda,Casaemcondomínio,Patamares, Rua Bicuíba, 1223,328.62,4,5,5,1300000
-503,venda,Apartamento3,Caminho das Árvores, Alameda dos Sombreiros,,153.0,3,3,2,1400000
-504,venda,Casa,Patamares, Rua Bicuíba, 60,1270.0,0,3,3,1400000
-505,venda,Terreno,Patamares, Rua Bicuíba, 60,1270.0,0,0,0,1400000
-506,venda,Casa,Boca do Rio, Rua Orlando Moscoso, 68,782.0,8,3,8,1490000
-507,venda,Apartamento4,Graça, Rua Conde Filho, 310,306.36,4,4,4,1500000
-508,venda,Apartamento5,Horto Florestal, Rua Waldemar Falcão, 1592,293.0,5,5,6,2800000
-509,venda,Apartamento,Tororó, Rua José Duarte,,38.0,1,0,1,140000
-510,venda,Sala,São Cristóvão, Avenida Luís Viana,,42.0,0,1,1,210000
-511,venda,Apartamento2,Santa Teresa, Rua Karol Wojtyla,,50.0,2,1,1,258000
-512,venda,Sala,Ondina, Avenida Anita Garibaldi,,65.43,0,2,1,590000
-513,venda,Apartamento,Armação, Avenida Octávio Mangabeira,,46.03,1,1,1,480000
-514,venda,Apartamento,Barra, Rua Oscar Carrascosa, 133,37.0,1,0,1,300000
-515,venda,Apartamento2,Parque Bela Vista, Rua Professor Ildefonso de Mesquita, 213,54.0,2,1,2,365000
-516,venda,Apartamento3,Resgate, Rua Nossa Senhora do Resgate, 526,73.56,3,1,2,230000
-517,venda,Cobertura,Candeal, Rua Alberto Pondé,,230.0,4,2,3,650000
-518,venda,Apartamento2,Nazaré,,,87.73,2,0,1,138000
-519,venda,Casa,Matatu, Rua Doutor Otaviano Pimenta,,311.0,4,2,4,900000
-520,venda,Apartamento3,Alphaville I, Avenida Luís Viana - Lado Par,,143.0,3,2,5,1350000
-521,venda,Apartamento2,Candeal,,,57.0,2,1,2,197000
-522,venda,Apartamento,Jardim Apipema,,,38.66,1,1,1,225000
-523,venda,Apartamento3,Amaralina, Rua Professor Augusto Machado, 152,77.0,3,1,1,280000
-524,venda,Apartamento3,Pituba, Rua Piauí, 204,132.0,3,1,1,420000
-525,venda,Apartamento3,Parque Bela Vista, Rua Senador Theotônio Vilela, 256,149.74,3,1,2,475000
-526,venda,Casa,Jardim Placaford, Rua Princesa Isabel,,900.0,3,2,4,1100000
-527,venda,Terreno,Federação, Rua Professor Severo Pessoa,,1300.0,0,0,0,4300000
-528,venda,Casa,Barra, Rua Cândido Portinari,,2100.0,3,0,1,13500000
-529,venda,Apartamento2,Roma, Avenida Caminho de Areia, 19,45.0,2,0,2,130000
-530,venda,Sala,Pituba, Rua Fernando Menezes de Góes,,37.7,0,1,0,139000
-531,venda,Sala,Caminho das Árvores, Rua Ewerton Visco,,32.55,0,1,1,220000
-532,venda,Apartamento5,Jardim Apipema, Rua Doutor Pedro de Souza Pondé,,412.0,5,3,2,1250000
-533,venda,Apartamento,Graça, Rua Manoel Barreto,,45.0,1,1,1,250000
-534,venda,Cobertura,Jardim Apipema, Rua Engenheiro Armando Carneiro da Rocha,,345.0,4,3,4,950000
-535,venda,Apartamento2,Ondina, Avenida Oceânica,,142.0,2,3,2,1200000
-536,venda,Casa,Barra, Rua Oscar Carrascosa,,420.0,12,0,10,1200000
-537,venda,Terreno,Itapuã, Rua Desembargador João Azevedo Cavalcante,,651.0,0,0,0,350000
-538,venda,Apartamento4,Doron, Rua Jornalista Orlando Garcia,,80.0,4,1,3,400000
-539,venda,Apartamento2,Armação, Rua Rodrigues Dórea,,78.0,2,1,3,485000
-540,venda,Apartamento4,Jardim Apipema, Rua Desembargador Ezequiel Pondé,,195.51,4,2,3,570000
-541,venda,Prédio,Comércio, Praça Visconde de Cayru,,1360.0,0,0,5,950000
-542,venda,Apartamento3,Rio Vermelho, Rua Macaúbas,,117.0,3,2,4,1050000
-543,venda,Apartamento4,Chame-chame, Rua Christiano Ottoni,,305.0,4,4,5,1300000
-544,venda,Apartamento4,Horto Florestal, Rua Estácio Gonzaga,,171.0,4,3,6,1800013
-545,venda,Casa,Barra, Rua Cândido Portinari,,420.0,4,3,1,2500000
-546,venda,Apartamento2,Jardim das Margaridas, Rua Joaquim Ferreira,,56.0,2,1,2,170000
-547,venda,Sala,São Cristóvão, Avenida Luís Viana,,75.68,0,2,2,400000
-548,venda,Casa,Dois de Julho, Rua Desembargador Castelo Branco de Baixo,,250.0,4,3,3,1800000
-549,venda,Apartamento3,Jardim Apipema,,,176.5,3,2,2,480000
-550,venda,Apartamento3,Jardim Apipema,,,174.0,3,1,3,580000
-551,venda,Apartamento3,Graça,,,130.0,3,1,3,630000
-552,venda,Apartamento3,Ondina,,,148.0,3,1,2,750000
-553,venda,Apartamento3,Jardim Apipema,,,127.0,3,3,5,1000000
-554,venda,Apartamento4,Jardim Apipema,,,255.0,4,3,5,1000000
-555,venda,Sala,Federação, Avenida Anita Garibaldi, 0,31.77,0,1,1,120000
-556,venda,CasaComercial,Pituba, Rua Rubem Berta,,364.0,0,0,5,950000
-557,venda,Loja,Machado, Rua José Sena,,60.0,0,1,1,190000
-558,venda,Loja,Federação, Avenida Vasco da Gama, 477,122.0,0,0,1,280000
-559,venda,Apartamento3,Roma, Rua Antônio Francisco Brandão, 60,120.0,3,0,2,295000
+207,venda,Apartamento,Barra, Rua Guadalajara,,120.0,3,1,2,650000
+208,venda,Conjunto de salas,Paralela, Avenida Luís Viana,,114.0,0,3,2,849000
+209,venda,Apart-hotel,Ondina, Avenida Adhemar de Barros,,40.0,1,1,1,380000
+210,venda,Apartamento,Vila Rui Barbosa, Rua Domingos Abreu Vieira,63.0,102.0,3,0,2,260000
+211,venda,Apartamento,Ondina, Avenida Oceânica,,42.0,1,1,1,270000
+212,venda,Apartamento,Monte Serrat, Rua Rio São Francisco,73.0,69.0,3,0,2,280000
+213,venda,Casa,Liberdade, Avenida Floresta,,150.0,5,0,2,300000
+214,venda,Apartamento,Canela, Rua Padre Feijó,,103.0,3,0,2,309000
+215,venda,Apartamento,São Caetano, Rua Mário Lisboa Sampaio,23.0,120.0,3,1,2,315000
+216,venda,Casa,Machado, Rua Machado Monteiro,34.0,173.0,3,1,2,399000
+217,venda,Loja,Bonfim, Rua Henrique Dias,729.0,170.0,0,0,1,520000
+218,venda,Casa,Jardim Placaford, Rua Encontro das Árvores,,619.0,5,1,3,550000
+219,venda,Prédio,Caminho de Areia, Avenida Caminho de Areia,,380.0,14,0,14,600000
+220,venda,Casa,Armação, Rua Professor Euclides Alípio de Oliveira,,300.0,4,1,3,650000
+221,venda,Apartamento,Ondina, Rua Senta Pua,,114.0,2,2,1,670000
+222,venda,Prédio,Barroquinha, Avenida José Joaquim Seabra,44.0,380.0,14,0,16,800000
+223,venda,Terreno,Matatu, Rua Arlindo Fragoso,,600.0,0,0,0,1000000
+224,venda,Casa,Bonfim, Rua Baden Powell,18.0,310.0,4,3,3,1100000
+225,venda,Conjunto de salas,Pituba, Avenida Professor Magalhães Neto,1450.0,189.0,0,4,4,1160000
+226,venda,Loja,Ribeira, Praça General Osório,103.0,700.0,0,0,4,1800000
+227,venda,Casa,Jardim Apipema, Rua Doutor Rubens Chaves,,550.0,2,2,1,2250000
+228,venda,Terreno,Caminho das Árvores, Alameda das Algarobas,,206.0,0,3,0,2500000
+229,venda,Terreno,Caminho das Árvores, Alameda das Algarobas,,361.25,0,2,0,2500000
+230,venda,Prédio,Boca do Rio, Avenida Jorge Amado,,470.0,0,14,47,4000000
+231,venda,Sala,Canela, Avenida Reitor Miguel Calmon,1210.0,44.36,0,1,1,140000
+232,venda,Sala,Brotas, Avenida Antônio Carlos Magalhães,,27.33,0,1,1,155000
+233,venda,Apart-hotel,Caminho das Árvores, Rua Frederico Simões,,27.7,1,1,1,160000
+234,venda,Apart-hotel,Caminho das Árvores, Rua Frederico Simões,,27.45,1,1,1,160000
+235,venda,Apartamento,Jardim das Margaridas, Rua Joaquim Ferreira,,55.0,2,1,2,175000
+236,venda,Apartamento,Itapuã, Rua Luís Eduardo Magalhães,,59.0,2,1,1,180000
+237,venda,Apartamento,Dois de Julho, Avenida Sete de Setembro,,52.0,1,1,2,190000
+238,venda,Apartamento,Parque Bela Vista, Rua Teixeira Barros,,66.06,3,1,2,250000
+239,venda,Conjunto de salas,Itaigara, Avenida Antônio Carlos Magalhães,,75.0,0,0,3,250000
+240,venda,Apartamento,Matatu, Rua das Pitangueiras,,95.39,3,1,1,255000
+241,venda,Apartamento,Nazaré, Ladeira do Hospital,,105.27,3,1,1,260000
+242,venda,Apartamento,Ondina, Avenida Oceânica,,55.25,1,1,1,270000
+243,venda,Apartamento,Rio Vermelho, Rua Caetité,26.0,71.86,2,1,2,270000
+244,venda,Apartamento,Graça, Rua Teixeira Leal,,72.0,2,0,2,270000
+245,venda,Apartamento,Piatã, Rua da Gratidão,,61.54,2,1,1,280000
+246,venda,Apartamento,Pituba, Rua Almirante Carlos Paraguassu de Sá,,55.75,2,1,2,280000
+247,venda,Apartamento,Rio Vermelho, Rua Marquês de Monte Santo,,68.95,3,1,2,295000
+248,venda,Apartamento,Barra, Rua Doutor João Pondé,,45.0,1,1,1,300000
+249,venda,Apartamento,Brotas, Rua Irmã Dulce,,72.15,2,1,3,300000
+250,venda,Apartamento,Pituba, Rua Amazonas,,85.6,3,1,2,300000
+251,venda,Apartamento,Pituba, Rua Fernando Menezes de Góes,345.0,123.0,3,1,3,300000
+252,venda,Apartamento,Pituba, Rua Pará,448.0,82.0,2,1,3,320000
+253,venda,Apartamento,Federação, Rua Sérgio de Carvalho,801.0,64.0,3,1,2,320000
+254,venda,Conjunto de salas,Parque Bela Vista, Avenida Antônio Carlos Magalhães,,58.0,0,2,2,320000
+255,venda,Apartamento,Piatã, Avenida Octávio Mangabeira,,55.28,1,1,1,330000
+256,venda,Apartamento,Armação, Rua Rodolpho Coelho Cavalcante,,92.0,3,1,1,330000
+257,venda,Apartamento,Pituba, Rua Sotero Monteiro,85.0,106.66,3,1,2,330000
+258,venda,Apartamento,Jardim Placaford, Rua Engenheiro Erociano da Cruz Neves,,85.0,3,1,2,330000
+259,venda,Apartamento,Graça, Rua Engenheiro Celso Torres,,90.0,2,1,3,335000
+260,venda,Apartamento,Pituba, Rua Pará,,82.0,2,1,3,350000
+261,venda,Apartamento,Pituba, Alameda Carrara,,79.38,2,2,2,350000
+262,venda,Apartamento,Costa Azul,,,92.0,2,1,3,350000
+263,venda,Apartamento,Canela, Rua Cláudio Manoel da Costa,,80.47,2,1,3,350000
+264,venda,Apartamento,Chame-chame, Rua Comendador Francisco Pedreira,,98.11,3,0,2,350000
+265,venda,Apartamento,Pituba, Rua Fernando Menezes de Góes,245.0,121.46,3,1,3,350000
+266,venda,Apartamento,Pituba, Rua Pará,,140.0,3,1,4,405000
+267,venda,Apartamento,Jardim Apipema, Rua Christiano Ottoni,,140.0,3,1,1,410000
+268,venda,Apartamento,Parque Bela Vista, Rua Professor Ildefonso de Mesquita,,137.0,3,2,2,414000
+269,venda,Apartamento,Canela, Rua Cláudio Manoel da Costa,,94.41,2,1,2,420000
+270,venda,Apartamento,Federação, Avenida Anita Garibaldi,,98.0,3,1,3,420000
+271,venda,Apartamento,Pituba, Rua Piauí,,230.38,4,2,3,420000
+272,venda,Apartamento,Armação, Rua João Mendes da Costa Filho,,86.0,3,2,3,430000
+273,venda,Apartamento,Costa Azul, Rua Coronel Durval Mattos,,85.0,2,2,3,440000
+274,venda,Apartamento,Vila Laura, Rua Genésio Sales,226.0,90.0,3,1,2,440000
+275,venda,Flat,Caminho das Árvores, Rua Alceu Amoroso Lima,,44.77,1,1,1,440000
+276,venda,Apartamento,Pituba, Rua Pará,454.0,82.0,2,1,2,445000
+277,venda,Apartamento,Candeal, Rua Waldemar Falcão - Lado Par,,78.0,2,1,2,450000
+278,venda,Apartamento,Garcia, Rua Pacífico Pereira,,84.0,3,1,2,450000
+279,venda,Cobertura,Graça, Rua Comendador Horácio Urpia,,90.0,2,1,3,480000
+280,venda,Apartamento,Pituba, Rua Pará,,140.0,3,1,4,405000
+281,venda,Apartamento,Jardim Apipema, Rua Christiano Ottoni,,140.0,3,1,1,410000
+282,venda,Apartamento,Parque Bela Vista, Rua Professor Ildefonso de Mesquita,,137.0,3,2,2,414000
+283,venda,Apartamento,Canela, Rua Cláudio Manoel da Costa,,94.41,2,1,2,420000
+284,venda,Apartamento,Federação, Avenida Anita Garibaldi,,98.0,3,1,3,420000
+285,venda,Apartamento,Pituba, Rua Piauí,,230.38,4,2,3,420000
+286,venda,Apartamento,Armação, Rua João Mendes da Costa Filho,,86.0,3,2,3,430000
+287,venda,Apartamento,Costa Azul, Rua Coronel Durval Mattos,,85.0,2,2,3,440000
+288,venda,Apartamento,Vila Laura, Rua Genésio Sales,226.0,90.0,3,1,2,440000
+289,venda,Flat,Caminho das Árvores, Rua Alceu Amoroso Lima,,44.77,1,1,1,440000
+290,venda,Apartamento,Pituba, Rua Pará,454.0,82.0,2,1,2,445000
+291,venda,Apartamento,Candeal, Rua Waldemar Falcão - Lado Par,,78.0,2,1,2,450000
+292,venda,Apartamento,Garcia, Rua Pacífico Pereira,,84.0,3,1,2,450000
+293,venda,Cobertura,Graça, Rua Comendador Horácio Urpia,,90.0,2,1,3,480000
+294,venda,Apartamento,Pituba, Rua Piauí,,72.0,2,1,2,490000
+295,venda,Apartamento,Pituba, Rua Engenheiro Adhemar Fontes,,108.0,2,1,3,500000
+296,venda,Apartamento,Pituba, Rua Artur de Sá Menezes,302.0,155.6,4,2,3,500000
+297,venda,Apartamento,Pituba, Rua Rubem Berta,324.0,142.0,4,2,3,500000
+298,venda,Cobertura,Pituba, Rua Espírito Santo,,138.5,2,1,3,500000
+299,venda,Loja,Vila Laura, Rua Raul Leite,,64.0,0,1,0,500000
+300,venda,Apartamento,Pituba, Rua Clara Nunes,,79.23,2,1,3,530000
+301,venda,Apartamento,Costa Azul, Rua Desembargador Manoel Pereira,98.0,152.69,3,2,3,530000
+302,venda,Apartamento,Pituba, Avenida Paulo Vi,,96.0,2,2,2,545000
+303,venda,Apartamento,Pituba, Rua General Antônio Sampaio,,134.83,3,2,2,550000
+304,venda,Apartamento,Caminho das Árvores, Rua do Timbó,726.0,110.0,3,2,3,550000
+305,venda,Apartamento,Pituba, Rua Artur de Sá Menezes,,275.42,4,3,3,550000
+306,venda,Casa em condomínio,Piatã, Rua Engenheiro Erociano da Cruz Neves,,196.0,4,2,5,550000
+307,venda,Apartamento,Pituba, Rua Colmar Americano da Costa,,78.0,2,2,2,560000
+308,venda,Sala,Caminho das Árvores, Avenida Tancredo Neves,,102.6,0,2,2,650000
+309,venda,Apartamento,Itaigara, Rua Wanderley Pinho,,155.0,3,2,2,680000
+310,venda,Apartamento,Horto Florestal, Rua Waldemar Falcão,,90.0,2,2,3,690000
+311,venda,Apartamento,Pituba, Rua Messer do Amor,,135.0,4,2,2,700000
+312,venda,Apartamento,Caminho das Árvores, Rua do Ébano,,181.0,4,2,4,700000
+313,venda,Apartamento,Caminho das Árvores, Rua Várzea de Santo Antônio,621.0,140.0,4,2,4,700000
+314,venda,Apartamento,Graça, Avenida Euclydes da Cunha,,130.0,3,1,3,710000
+315,venda,Apartamento,Pituba, Rua Renato de Menezes Berenguer,185.0,110.25,3,2,4,720000
+316,venda,Apartamento,Garcia, Avenida Leovigildo Filgueiras,,140.0,4,1,1,730000
+317,venda,Apartamento,Pituba, Rua Hilton Rodrigues,,118.0,3,2,2,735000
+318,venda,Apartamento,Graça, Rua Martagão Gesteira,,200.0,3,3,2,750000
+319,venda,Apartamento,Pituba, Rua Altino Serbeto de Barros,,131.2,3,2,1,750000
+320,venda,Apartamento,Armação, Rua Alfredo Gomes de Oliveira,,213.0,4,2,4,750000
+321,venda,Apartamento,Pituba, Rua Hilton Rodrigues,,193.82,4,2,5,780000
+322,venda,Apartamento,Pituba, Rua Ceará,,201.0,4,2,4,800000
+323,venda,Cobertura,Pituba, Rua Território do Guaporé,,327.0,4,3,3,800000
+324,venda,Ponto comercial,Rio Sena, Rua Pedro de Alencar,345.0,1084.0,0,0,1,800000
+325,venda,Apartamento,Pituba, Rua Machado Neto,,202.0,4,2,4,815000
+326,venda,Apartamento,Jardim Apipema, Rua Plínio Moscoso,,128.43,4,2,3,850000
+327,venda,Apartamento,Pituba, Rua Altino Serbeto de Barros,,143.22,4,2,3,850000
+328,venda,Casa,Daniel Lisboa, Rua Dom Jerônimo Thome da Silva,,380.0,3,2,4,850000
+329,venda,Apartamento,Candeal, Rua Leonor Calmon,,170.54,3,3,3,900000
+330,venda,Apartamento,Graça, Rua Djalma Ramos,,191.0,3,2,1,900000
+331,venda,Apartamento,Pituba, Rua Tenente Fernando Tuy,,137.0,4,2,4,950000
+332,venda,Casa Comercial,Pituba, Rua das Angélicas,,157.0,0,4,3,950000
+333,venda,Dúplex,Itaigara, Rua Érico Veríssimo,,135.0,2,2,3,960000
+334,venda,Cobertura,Pituba, Rua Hilton Rodrigues,,223.0,3,3,3,980000
+335,venda,Conjunto de salas,Caminho das Árvores, Rua Soldado Luiz Gonzaga das Virgens,,160.0,0,4,4,1000000
+336,venda,Cobertura,Pituba, Rua Manoel Andrade,,200.0,3,3,4,1070000
+337,venda,Apartamento,Barra, Rua Fernão de Magalhães,,169.0,3,1,2,1100000
+338,venda,Apartamento,Pituba, Rua Alberto Valença,,148.0,4,2,4,1130000
+339,venda,Cobertura,Pituba, Rua Marechal Andréa,312.0,178.93,3,4,4,1150000
+340,venda,Apartamento,Itaigara, Rua Doutor Antônio Monteiro,,201.47,4,4,4,1200000
+341,venda,Casa em condomínio,Pituba, Rua Teófilo Braga,154.0,128.63,3,2,3,1200000
+342,venda,Cobertura,Pituba, Rua Marechal Andréa,,303.36,4,4,3,1200000
+343,venda,Cobertura,Pituba, Rua Hilton Rodrigues,,216.35,4,4,5,1240000
+344,venda,Casa,Barra, Avenida Sete de Setembro,,360.0,6,0,7,1250000
+345,venda,Apartamento,Campo Grande, Largo do Campo Grande,,219.0,4,2,4,1280000
+346,venda,Apartamento,Caminho das Árvores, Rua do Benjoim,,196.0,4,3,5,1280000
+347,venda,Sala,Graça, Rua Humberto de Campos,,260.0,0,4,4,1300000
+348,venda,Apartamento,Campo Grande, Largo do Campo Grande,,240.0,4,2,3,1350000
+349,venda,Apartamento,Rio Vermelho, Rua Monte Conselho,,203.87,4,3,5,1350000
+350,venda,Casa,Itaigara, Rua Hermann Neeser,,318.28,3,1,3,1350000
+351,venda,Cobertura,Itaigara, Rua Doutor Hosannah de Oliveira,,260.0,5,3,5,1400000
+352,venda,Casa,Pituba, Rua Guillard Muniz,,360.0,4,4,5,1600000
+353,venda,Apartamento,Caminho das Árvores, Rua do Jaborandi,,198.0,4,3,6,1700000
+354,venda,Casa,Caminho das Árvores, Rua Graviola,190.0,496.0,5,2,5,1700000
+355,venda,Apartamento,Horto Florestal, Rua Waldemar Falcão,,353.72,4,4,5,1800000
+356,venda,Apartamento,Pituba, Rua Tenente Fernando Tuy,,224.6,4,4,6,1800000
+357,venda,Cobertura,Graça, Rua Manoel Barreto,,292.81,4,4,5,1800000
+358,venda,Casa,Vila Laura, Rua Bernardo Spector,,511.0,5,4,5,1890000
+359,venda,Apartamento,Jardim Apipema, Rua Plínio Moscoso,,479.82,5,4,5,1900000
+360,venda,Casa,Jardim Apipema, Rua Nita Costa,,240.0,5,4,6,1950000
+361,venda,Pousada,Santo Antônio, Rua Direita de Santo Antônio,,380.0,7,0,3,1990000
+362,venda,Apartamento,Caminho das Árvores, Rua do Ébano,,348.15,3,3,5,2000000
+363,venda,Apartamento,Caminho das Árvores, Rua Graviola,,436.0,5,5,1,2050000
+364,venda,Apartamento,Rio Vermelho, Travessa Bartholomeu de Gusmão,,273.0,4,4,6,2200000
+365,venda,Apartamento,Pituba, Rua Antenor Tupinambá,,447.63,5,8,1,2200000
+366,venda,Casa,Caminho das Árvores, Alameda dos Umbuzeiros,,337.0,3,3,3,2250000
+367,venda,Casa,Canela, Rua Cláudio Manoel da Costa,,1002.0,4,2,5,2500000
+368,venda,Prédio,Pituba, Avenida Manoel Dias da Silva,,600.0,0,0,0,3000000
+369,venda,Motel,Bonfim, Rua Henrique Dias,,750.0,33,6,33,3100000
+370,venda,Hotel,Liberdade, Largo do Guarani,,2200.0,40,27,0,3400000
+371,venda,Apartamento,Jardim Apipema, Rua Professor Sabino Silva,,493.0,4,5,6,3500000
+372,venda,Casa em condomínio,Alphaville I, Avenida Alphaville,0.0,370.0,4,4,6,3800000
+373,venda,Casa em condomínio,Piatã, Avenida Orlando Gomes,,501.0,6,5,6,4650000
+374,venda,Casa em condomínio,Alphaville I, Residencial Itaparica,555.0,1200.0,4,10,9,5000000
+375,venda,Casa em condomínio,Alphaville I, Avenida Alphaville,,500.0,3,5,5,7800000
+376,venda,Apartamento,Bonfim, Rua Parque São José,1.0,110.0,4,0,3,315000
+377,venda,Apartamento,Parque Bela Vista, Rua Assaré,,60.0,2,2,2,370000
+378,venda,Casa,Piatã, Rua Doutor Arnaldo Santana,,230.0,5,4,5,800000
+379,venda,Apartamento,Barra, Avenida Sete de Setembro,,104.6,3,1,2,850000
+380,venda,Apartamento,Pituba, Alameda Catânia,,130.0,4,2,4,810000
+381,venda,Sala,Pituba, Avenida Professor Magalhães Neto,1450.0,53.0,0,1,1,320000
+382,venda,Apartamento,Luiz Anselmo, Rua Hélio de Oliveira,,55.0,2,1,1,190000
+383,venda,Apartamento,Pituba, Rua Mato Grosso,478.0,128.06,4,2,4,640000
+384,venda,Sala,Caminho das Árvores, Rua Coronel Almerindo Rehem,,30.0,0,1,1,210000
+385,venda,Sala,Barra, Avenida Oceânica,,65.64,0,2,1,707599
+386,venda,Sala,Pituba, Rua Professor Leopoldo Amaral,,39.81,0,1,1,330000
+387,venda,Sala,Pituba, Avenida Manoel Dias da Silva,,25.73,0,1,1,145000
+388,venda,Casa Comercial,Barra, Avenida Oceânica,,582.0,0,4,23,5500000
+389,venda,Apartamento,São Marcos, Rua Carlos Marighella,,60.0,2,0,1,99000
+390,venda,Apartamento,Engenho Velho de Brotas, Rua Frederico Costa,685.0,55.0,1,1,1,220000
+391,venda,Apartamento,Resgate, Rua Edgard Loureiro,133.0,70.0,3,1,2,390000
+392,venda,Apartamento,Graça, Rua Comendador Horácio Urpia,149.0,151.6,3,1,2,450000
+393,venda,Sala,Parque Bela Vista, Rua Senador Theotônio Vilela,,23.75,0,1,1,95000
+394,venda,Sala,Caminho das Árvores, Avenida Tancredo Neves,,29.93,0,1,1,160000
+395,venda,Apartamento,Barra, Rua Oscar Carrascosa,11.0,75.0,2,0,0,290000
+396,venda,Casa Comercial,Barra, Alameda Antunes,42.0,168.0,2,2,1,1500000
+397,venda,Casa,Vitória, Avenida Sete de Setembro,,900.0,19,0,10,20000000
+398,venda,Apartamento,Piatã, Rua Marcos Pinheiro,,55.0,2,1,1,240000
+399,venda,Apartamento,Amaralina, Avenida Amaralina,,98.0,1,2,2,550000
+400,venda,Apartamento,Pituba, Rua Rubem Berta,135.0,59.73,1,1,1,260000
+401,venda,Apartamento,Stiep, Alameda Marine,70.0,90.0,3,1,2,495000
+402,venda,Sala,Brotas, Avenida Antônio Carlos Magalhães,,27.33,0,1,1,85000
+403,venda,Apartamento,Daniel Lisboa, Rua Dom Jerônimo Thome da Silva,,64.0,2,1,2,250000
+404,venda,Casa em condomínio,Jaguaribe, Alameda Júpiter,449.0,504.0,4,4,1,2500000
+405,venda,Sala,Caminho das Árvores, Rua Coronel Almerindo Rehem,,27.0,0,1,0,200000
+406,venda,Sala,Caminho das Árvores, Rua Ewerton Visco,,64.0,0,1,1,460000
+407,venda,Casa Comercial,Acupe de Brotas, Avenida General Graça Lessa,,800.0,0,15,8,2200000
+408,venda,Apartamento,Graça, Rua da Graça,,400.0,5,4,7,2400000
+409,venda,Casa,Caminho das Árvores, Alameda das Chuvas de Ouro,,595.0,6,4,6,4000000
+410,venda,Terreno,Campo Grande, Ladeira da Fonte,,1315.02,0,0,0,5100000
+411,venda,Prédio,Paralela, Avenida Luís Viana,2841.0,7705.0,0,200,0,80000000
+412,venda,Apartamento,Matatu, Rua Arlindo Fragoso,98.0,74.0,2,1,2,210000
+413,venda,Apartamento,Politeama,,,40.0,1,0,1,110000
+414,venda,Sala,Stiep, Rua José Peroba,,41.67,0,1,1,180000
+415,venda,Apartamento,Engenho Velho de Brotas, Rua Padre Luiz Filgueiras,,60.0,2,0,1,205000
+416,venda,Apartamento,Federação, Rua Sérgio de Carvalho,,69.7,2,1,1,230000
+417,venda,Casa,Cidade Nova, Rua Primeiro de Janeiro,,103.7,4,0,2,300000
+418,venda,Sala,Graça, Rua Humberto de Campos,,82.0,0,1,0,720000
+419,venda,Apartamento,Rio Vermelho, Rua Nelson Galo,,135.0,3,2,2,1000000
+420,venda,Casa,Piatã, Rua Camuripeba,,530.0,5,4,4,1000000
+421,venda,Casa,Itapuã, Avenida Luís Eduardo Magalhães,,2400.0,5,5,6,1850000
+422,venda,Prédio,Chame-chame, Rua Professor Sabino Silva,,960.0,0,14,0,5500000
+423,venda,Apartamento,Águas Claras, Rua Benedito Jenkis,,58.0,2,0,1,110000
+424,venda,Ponto comercial,Pau da Lima, Travessa São Domingos,,480.0,0,0,23,200000
+425,venda,Sala,Parque Bela Vista, Avenida Antônio Carlos Magalhães,2487.0,37.12,0,1,1,200000
+426,venda,Apartamento,Uruguai, Rua Belamita,,100.0,3,1,2,220000
+427,venda,Apartamento,Roma, Rua Frederico Lisboa,,70.0,3,0,2,240000
+428,venda,Village,Nova Brasília de Itapuã,,,82.72,2,1,1,260000
+429,venda,Sala,Costa Azul, Rua Arthur de Azevedo Machado,,32.05,0,1,1,270000
+430,venda,Casa,Rio Vermelho, Rua Pedra da Sereia,26.0,310.0,4,0,2,290000
+431,venda,Apartamento,Santa Teresa, Rua Parambu,181.0,65.0,2,1,2,380000
+432,venda,Apartamento,Vila Laura, Rua Raul Leite,,86.0,3,1,3,560000
+433,venda,Casa,Pituaçu, Travessa Joana Capistrano de Carvalho,12.0,460.0,3,3,3,1300000
+434,venda,Dúplex,Stella Maris, Rua Lídia Borja,,140.0,3,2,3,550000
+435,venda,Apartamento,Rio Vermelho, Rua Barão do Triunfo,,64.31,2,1,2,270000
+436,venda,Apartamento,Pituba, Rua Amazonas,,137.62,3,1,2,350000
+437,venda,Apartamento,Jardim Apipema, Rua Quintino de Carvalho,,80.0,2,1,2,400000
+438,venda,Dúplex,Rio Vermelho, Rua Belmonte,,107.0,3,2,3,500000
+439,venda,Casa,Santo Antônio, Ladeira de Ramos Queiroz,,160.0,3,1,2,600000
+440,venda,Casa Comercial,Saúde, Rua da Jaqueira,,320.0,3,2,2,695000
+441,venda,Apartamento,Vitória, Avenida Sete de Setembro,,101.0,3,1,4,750000
+442,venda,Casa,Rio Vermelho, Rua Itabuna,,312.0,4,3,2,1000000
+443,venda,Casa,Santa Teresa, Rua Poetisa Cora Coralina,,268.0,3,3,1,1100000
+444,venda,Apartamento,Graça, Rua Conde Filho,,139.0,3,2,3,1140000
+445,venda,Apartamento,Caminho das Árvores, Rua do Benjoim,,191.7,4,3,5,1300000
+446,venda,Apartamento,Pituba, Rua Manoel Andrade,,200.0,3,3,3,1400000
+447,venda,Apartamento,Vitória, Avenida Sete de Setembro,,185.0,3,3,4,2500000
+448,venda,Apartamento,Massaranduba, Largo Juracy Magalhães,,100.0,2,0,2,120000
+449,venda,Sala,Engenho Velho de Brotas, Avenida Vasco da Gama,,26.26,0,1,0,120000
+450,venda,Sala,Parque Bela Vista, Avenida Antônio Carlos Magalhães,2573.0,31.83,0,1,1,125000
+451,venda,Sala,Parque Bela Vista, Avenida Antônio Carlos Magalhães,2573.0,33.88,0,1,1,125000
+452,venda,Sala,Parque Bela Vista, Avenida Antônio Carlos Magalhães,2573.0,31.83,0,1,1,125000
+453,venda,Sala,Parque Bela Vista, Avenida Antônio Carlos Magalhães,2573.0,33.83,0,1,1,125000
+454,venda,Sala,Itaigara, Avenida Antônio Carlos Magalhães,811.0,34.0,0,1,1,155000
+455,venda,Apartamento,Pernambués, Rua Amargosa,1121.0,113.5,3,1,3,175000
+456,venda,Apartamento,Barbalho, Ladeira do Arco,,49.71,2,1,1,190000
+457,venda,Apartamento,Pernambués, Rua Thomaz Gonzaga,,47.0,2,1,1,200000
+458,venda,Apartamento,Pernambués, Rua dos Bioquímicos,106.0,64.0,2,2,2,235000
+459,venda,Apartamento,Daniel Lisboa, Rua Rodolfo Pimentel,154.0,74.12,2,1,2,240000
+460,venda,Apartamento,Federação, Rua Jardim Federação,,56.61,2,1,2,245000
+461,venda,Apartamento,Jardim Placaford, Rua Professor David Mendes Pereira,83.0,68.5,2,1,2,250000
+462,venda,Apartamento,Amaralina, Avenida Amaralina,,90.0,2,1,2,255000
+463,venda,Prédio,Comércio, Rua Conselheiro Lafayete,16.0,240.0,0,0,3,260000
+464,venda,Apartamento,Candeal, Rua Carlos Maron,185.0,75.0,2,1,2,290000
+465,venda,Apartamento,Graça, Rua Almirante Cleto Japi Assu,,90.0,2,0,1,315000
+466,venda,Apartamento,Candeal, Alameda Monte Carmelo,351.0,72.0,2,1,3,320000
+467,venda,Apartamento,Pituba, Rua Colmar Americano da Costa,,65.0,2,1,2,450000
+468,venda,Apartamento,Barra, Rua Afonso Celso,,103.0,3,1,2,500000
+469,venda,Apartamento,Canela, Rua Marechal Floriano,53.0,108.04,3,1,3,500000
+470,venda,Apartamento,Pituba, Rua Hilton Rodrigues,,117.0,3,2,3,780000
+471,venda,Apartamento,Pituba, Rua Alberto Valença,50.0,160.0,4,2,5,965000
+472,venda,Casa em condomínio,Stella Maris, Alameda Praia de Corumbé,,400.0,5,2,5,1450000
+473,venda,Apartamento,Itaigara, Rua Artesão João da Prata,,273.0,4,4,6,1650000
+474,venda,Apartamento,Campo Grande, Largo do Campo Grande,33.0,152.0,3,1,3,400000
+475,venda,Loja,Pituba, Avenida Manoel Dias da Silva,,128.0,0,3,0,2000000
+476,venda,Apartamento,Santa Teresa, Rua Francisco Jorge,,60.0,2,1,2,370000
+477,venda,Casa,Garcia, Rua Comendador José Alves Ferreira,,466.0,3,5,3,750000
+478,venda,Casa em condomínio,Jaguaribe, Avenida Orlando Gomes,899.0,538.0,4,8,5,4900000
+479,venda,Casa Comercial,Santo Antônio, Rua Santo Antônio Além do Carmo,,970.0,0,0,4,3500000
+480,venda,Apartamento,Armação, Rua Desembargador Vieira Lima,,80.0,2,2,1,825000
+481,venda,Apartamento,Monte Serrat, Rua Rio Itapicuru,12.0,78.0,2,0,2,145000
+482,venda,Apartamento,Caminho de Areia, Rua José Sena,8.0,100.0,3,0,2,205000
+483,venda,Apartamento,Caminho de Areia, Rua José Sena,8.0,100.0,3,0,2,250000
+484,venda,Cobertura,Costa Azul, Rua Coronel Durval Mattos,,233.0,4,2,4,450000
+485,venda,Apartamento,Graça, Avenida Euclydes da Cunha,,235.0,4,2,3,950000
+486,venda,Sala,Pituba,,,42.27,0,1,0,100000
+487,venda,Apartamento,Areia Branca, Rua 2 de Julho,,40.53,2,1,1,120000
+488,venda,Apartamento,Vila Rui Barbosa, Rua Duarte da Costa,,76.0,2,0,1,130000
+489,venda,Apartamento,Mata Escura, Conjunto Recanto Verde,,54.0,2,1,1,158000
+490,venda,Apartamento,Dois de Julho, Rua Augusto Franca,,72.0,2,0,1,200000
+491,venda,Apartamento,Dois de Julho, Avenida Sete de Setembro,,65.0,2,0,1,220000
+492,venda,Apartamento,Garcia, Rua Pacífico Pereira,54.0,55.0,2,1,1,260000
+493,venda,Apartamento,Brotas, Rua Doutor Filinto Borja,,95.0,3,1,1,280000
+494,venda,Apartamento,Acupe de Brotas, Ladeira do Acupe,,105.0,3,1,3,299000
+495,venda,Apartamento,Matatu, Rua Lalita Costa,,64.0,2,1,2,350000
+496,venda,Apartamento,Tororó, Rua Futuro do Tororó,11.0,137.0,3,0,2,350000
+497,venda,Apartamento,Pituba, Rua João Bião de Cerqueira,,70.19,3,1,3,350000
+498,venda,Cobertura,Vila Laura, Rua Raul Leite,,97.28,3,2,3,380000
+499,venda,Sala,Ondina, Avenida Anita Garibaldi,,119.92,0,2,3,420000
+500,venda,Casa,Nazaré, Rua do Bângala,,192.0,3,1,1,530000
+501,venda,Apartamento,Candeal, Rua Alberto Pondé,,154.0,4,2,2,580000
+502,venda,Casa Comercial,Rio Vermelho, Rua Almirante Barroso,,480.0,4,2,4,600000
+503,venda,Casa Comercial,Barbalho, Rua Engenheiro João Pimenta Bastos,,200.0,0,3,8,650000
+504,venda,Apartamento,Parque Bela Vista, Avenida Antônio Carlos Magalhães,3359.0,88.82,3,1,2,430000
+505,venda,Apartamento,Parque Bela Vista, Avenida Antônio Carlos Magalhães,3359.0,88.82,3,2,3,450000
+506,venda,Apartamento,Pituba, Rua Pernambuco,,119.32,3,2,3,500000
+507,venda,Loja,Armação, Rua João Mendes da Costa Filho,169.0,102.15,0,1,0,530000
+508,venda,Apartamento,Patamares, Rua do Mangalô,289.0,140.58,3,2,4,540000
+509,venda,Apartamento,Pituba, Rua Artur Gomes de Carvalho,,85.33,3,2,2,550000
+510,venda,Apartamento,Pituba,,,99.22,3,2,3,580000
+511,venda,Apartamento,Pituba, Rua Hilton Rodrigues,,116.0,3,2,1,600000
+512,venda,Apartamento,Itaigara, Rua Padre Manoel Barbosa,,120.25,3,2,3,650000
+513,venda,Apartamento,Pituba, Rua Clara Nunes,,94.45,3,1,3,650000
+514,venda,Apartamento,Garcia, Rua Pacífico Pereira,,120.0,3,2,2,700000
+515,venda,Apartamento,Caminho das Árvores, Rua Clarival do Prado Valladares,,116.3,3,2,3,700000
+516,venda,Apartamento,Caminho das Árvores, Rua Graviola,,214.61,4,3,1,750000
+517,venda,Apartamento,Graça, Rua Comendador Horácio Urpia,1.0,151.76,4,3,3,750000
+518,venda,Apartamento,Pituba, Rua Manoel Andrade,,120.0,4,2,3,750000
+519,venda,Apartamento,Ondina, Avenida Oceânica,,72.0,1,1,1,790000
+520,venda,Apartamento,Pituba, Rua Machado Neto,,211.49,4,2,4,850000
+521,venda,Casa Comercial,Amaralina, Rua Visconde de Itaborahy,639.0,332.0,3,4,2,850000
+522,venda,Apartamento,Barra, Avenida Oceânica,265.0,128.32,3,1,2,890000
+523,venda,Apartamento,Caminho das Árvores, Rua Clarival do Prado Valladares,,168.41,4,2,5,890000
+524,venda,Apartamento,Vitória, Avenida Sete de Setembro,,207.0,4,1,1,900000
+525,venda,Apartamento,Piatã, Avenida Octávio Mangabeira,,115.0,3,3,3,950000
+526,venda,Casa em condomínio,Itapuã, Rua General Severino Filho,750.0,461.0,4,2,6,970000
+527,venda,Cobertura,Caminho das Árvores, Rua Graviola,322.0,166.25,3,2,1,1000000
+528,venda,Casa,Itapuã, Rua do Teatro,,238.0,3,7,3,1150000
+529,venda,Apartamento,Pituba, Rua Manoel Gomes de Mendonça,,158.56,4,4,4,1300000
+530,venda,Casa em condomínio,Patamares, Rua Bicuíba,1223.0,328.62,4,5,5,1300000
+531,venda,Apartamento,Caminho das Árvores, Alameda dos Sombreiros,,153.0,3,3,2,1400000
+532,venda,Apartamento,Nazaré,,,87.73,2,0,1,138000
+533,venda,Casa,Matatu, Rua Doutor Otaviano Pimenta,,311.0,4,2,4,900000
+534,venda,Apartamento,Alphaville I, Avenida Luís Viana - Lado Par,,143.0,3,2,5,1350000
+535,venda,Apartamento,Candeal,,,57.0,2,1,2,197000
+536,venda,Apartamento,Jardim Apipema,,,38.66,1,1,1,225000
+537,venda,Apartamento,Amaralina, Rua Professor Augusto Machado,152.0,77.0,3,1,1,280000
+538,venda,Apartamento,Pituba, Rua Piauí,204.0,132.0,3,1,1,420000
+539,venda,Apartamento,Parque Bela Vista, Rua Senador Theotônio Vilela,256.0,149.74,3,1,2,475000
+540,venda,Casa,Jardim Placaford, Rua Princesa Isabel,,900.0,3,2,4,1100000
+541,venda,Terreno,Federação, Rua Professor Severo Pessoa,,1300.0,0,0,0,4300000
+542,venda,Casa,Barra, Rua Cândido Portinari,,2100.0,3,0,1,13500000
+543,venda,Apartamento,Roma, Avenida Caminho de Areia,19.0,45.0,2,0,2,130000
+544,venda,Sala,Pituba, Rua Fernando Menezes de Góes,,37.7,0,1,0,139000
+545,venda,Sala,Caminho das Árvores, Rua Ewerton Visco,,32.55,0,1,1,220000
+546,venda,Apartamento,Candeal, Rua Paulo Afonso,,72.0,2,1,1,268000
+547,venda,Apart-hotel,Caminho das Árvores, Rua Clarival do Prado Valladares,214.0,42.5,1,1,1,220000
+548,venda,Apartamento,Jardim Apipema, Rua Plínio Moscoso,,162.0,4,3,4,1100000
+549,venda,Apartamento,Pituba,,,226.89,3,2,4,530000
+550,venda,Apartamento,Politeama, Rua Clóvis Spínola,40.0,44.83,1,0,1,150000
+551,venda,Apartamento,Imbuí, Rua Professor Jairo Simões,78.0,50.31,2,1,1,165000
+552,venda,Apartamento,Nazaré, Rua Bela Vista do Cabral,342.0,73.7,3,1,2,200000
+553,venda,Sala,Caminho das Árvores, Rua Frederico Simões,,27.42,0,1,0,210000
+554,venda,Apartamento,Amaralina, Rua Bráulio Nascimento,85.0,75.0,2,0,2,260000
+555,venda,Sala,Comércio, Rua dos Algibebes,,30.0,0,0,1,60000
+556,venda,Sala,Rio Vermelho, Avenida Oceânica,,108.14,0,3,1,1154259
+557,venda,Apartamento,Politeama,,,58.0,2,1,2,200000
+558,venda,Apartamento,Pituba, Rua Hilton Rodrigues,,203.0,4,2,4,840000
+559,venda,Casa Comercial,Ribeira, Avenida Beira Mar,,700.0,0,0,2,1700000
 560,venda,Apartamento,Cabula,,,38.89,1,0,2,127000
 561,venda,Sala,Federação, Avenida Anita Garibaldi,,31.77,0,1,1,130000
 562,venda,Apartamento,Costa Azul, Rua Professor Cassilandro Barbuda,,49.24,1,1,2,200000
 563,venda,Apartamento,Rio Vermelho, Rua Maragogipe,,63.68,1,1,2,220000
 564,venda,Apartamento,Candeal, Rua Alberto Pondé,,67.36,1,1,2,230000
-565,venda,Apartamento2,Armação, Rua João Mendes da Costa Filho,,74.75,2,1,2,230000
-566,venda,Apartamento,Piatã, Rua Albacora, 85,21.66,1,0,1,248000
+565,venda,Apartamento,Armação, Rua João Mendes da Costa Filho,,74.75,2,1,2,230000
+566,venda,Apartamento,Piatã, Rua Albacora,85.0,21.66,1,0,1,248000
 567,venda,Casa,Itapuã, Avenida das Dunas,,450.0,5,4,7,2500000
 568,venda,Casa,Itaigara, Rua Oswaldo Valente,,271.99,3,4,5,1400000
-569,venda,CasaComercial,Nazaré, Rua Santa Clara,,218.0,0,2,3,680000
-570,venda,Apartamento2,Engenho Velho da Federação, Travessa São João, 100,120.0,2,0,2,220000
-571,venda,Apartamento4,Parque Bela Vista, Rua Professor Ildefonso de Mesquita,,120.0,4,3,4,620000
+569,venda,Casa Comercial,Nazaré, Rua Santa Clara,,218.0,0,2,3,680000
+570,venda,Apartamento,Engenho Velho da Federação, Travessa São João,100.0,120.0,2,0,2,220000
+571,venda,Apartamento,Parque Bela Vista, Rua Professor Ildefonso de Mesquita,,120.0,4,3,4,620000
 572,venda,Sala,Federação, Avenida Vasco da Gama,,27.65,0,1,0,200000
-573,venda,Sala,Comércio, Rua dos Algibebes, 4,29.0,0,0,1,55000
-574,venda,Apartamento2,Federação,,,100.0,2,1,1,230000
+573,venda,Sala,Comércio, Rua dos Algibebes,4.0,29.0,0,0,1,55000
+574,venda,Apartamento,Federação,,,100.0,2,1,1,230000
 575,venda,Sala,Pituba,,,34.16,0,1,1,210000
 576,venda,Apartamento,Graça,,,41.33,1,0,1,230000
-577,venda,Apartamento3,Federação,,,91.9,3,1,2,310000
-578,venda,Apartamento3,Canela,,,172.0,3,1,2,420000
+577,venda,Apartamento,Federação,,,91.9,3,1,2,310000
+578,venda,Apartamento,Canela,,,172.0,3,1,2,420000
 579,venda,Sala,Pituba, Rua Altino Serbeto de Barros,,98.86,0,2,0,570000
-580,venda,Apartamento4,Pituba,,,139.64,4,2,4,800000
-581,venda,Apartamento5,Jardim Apipema,,,304.0,5,3,4,1200000
-582,venda,Casaemcondomínio,Pituba,,,400.0,3,2,4,1950000
-583,venda,Apartamento4,Pituaçu, Rua José Chalub Bastos,,305.96,4,4,5,2120000
-584,venda,Casa,Mares, Rua do Cantagalo, 31,190.0,3,0,1,220000
-585,venda,Sala,Amaralina, Rua das Ubaranas, 63,17.28,0,0,1,75000
+580,venda,Apartamento,Pituba,,,139.64,4,2,4,800000
+581,venda,Apartamento,Jardim Apipema,,,304.0,5,3,4,1200000
+582,venda,Casa em condomínio,Pituba,,,400.0,3,2,4,1950000
+583,venda,Apartamento,Pituaçu, Rua José Chalub Bastos,,305.96,4,4,5,2120000
+584,venda,Casa,Mares, Rua do Cantagalo,31.0,190.0,3,0,1,220000
+585,venda,Sala,Amaralina, Rua das Ubaranas,63.0,17.28,0,0,1,75000
 586,venda,Sala,São Cristóvão, Avenida Luís Viana,,33.0,0,1,0,189900
-587,venda,Apartamento4,Imbuí, Rua Novo Imbuí,,109.0,4,2,3,895000
+587,venda,Apartamento,Imbuí, Rua Novo Imbuí,,109.0,4,2,3,895000
 588,venda,Sala,Pituba, Rua Fernando Menezes de Góes,,46.0,0,1,0,130000
 589,venda,Casa,Liberdade,,,198.0,2,0,1,400000
 590,venda,Sala,Federação, Avenida Vasco da Gama,,27.65,0,1,0,200000
 591,venda,Sala,Federação, Avenida Vasco da Gama,,27.65,0,1,0,200000
-592,venda,Apartamento2,Piatã, Rua Pasquale Gatto,,60.0,2,1,1,300000
-593,venda,Apartamento2,Candeal, Rua José Pedreira,,68.0,2,2,3,370000
-594,venda,Casa,Horto Florestal, Rua Waldemar Falcão, 12,270.0,3,3,5,1100000
+592,venda,Apartamento,Piatã, Rua Pasquale Gatto,,60.0,2,1,1,300000
+593,venda,Apartamento,Candeal, Rua José Pedreira,,68.0,2,2,3,370000
+594,venda,Casa,Horto Florestal, Rua Waldemar Falcão,12.0,270.0,3,3,5,1100000
 595,venda,Terreno,Itapuã, Rua Desembargador João Azevedo Cavalcante,,720.75,0,0,0,380000
-596,venda,Apartamento3,Acupe de Brotas,,,120.0,3,1,2,310000
-597,venda,Apartamento3,Graça,,,155.0,3,2,5,700000
+596,venda,Apartamento,Acupe de Brotas,,,120.0,3,1,2,310000
+597,venda,Apartamento,Graça,,,155.0,3,2,5,700000
 598,venda,Loja,Dois de Julho, Rua Carlos Gomes,,500.0,0,0,3,1950000
 599,venda,Sala,Paralela, Avenida Luís Viana,,76.0,0,2,2,600000
-600,venda,CasaComercial,Pelourinho, Rua das Portas do Carmo,,450.0,0,0,0,1800000
-601,venda,Apartamento2,Matatu,,,75.0,2,1,2,235000
-602,venda,Apartamento3,Pituba,,,109.16,3,1,3,495000
-603,venda,Apartamento3,Candeal, Rua Icapuí,,84.0,3,2,3,500000
-604,venda,Apartamento3,Canela, Rua Marechal Floriano,,128.0,3,1,3,530000
-605,venda,Apartamento4,Pituba, Rua Messe de Amor,,135.0,4,2,3,580000
-606,venda,Apartamento3,Costa Azul, Rua Professor Cassilandro Barbuda,,96.0,3,2,3,600000
-607,venda,Apartamento4,Pituba,,,200.0,4,3,3,650000
-608,venda,Cobertura,Imbuí,,,190.0,4,2,4,650000
-609,venda,Apartamento2,Ondina, Avenida Oceânica,,101.0,2,1,2,740000
-610,venda,Apartamento3,Pituba, Rua Manoel Andrade,,115.0,3,2,4,800000
-611,venda,Cobertura,Rio Vermelho,,,331.13,3,5,5,1500000
-612,venda,Casaemcondomínio,Alphaville II,,,243.0,4,4,4,2350000
-613,venda,Casaemcondomínio,Alphaville II,,,476.0,6,4,6,2800000
-614,venda,Casaemcondomínio,Alphaville II, Rua das Bromélias,,496.76,6,4,7,3300000
-615,venda,Kitchenette,Itapuã,,,33.27,1,1,1,130000
-616,venda,Sala,Graça,,,24.09,0,0,1,125000
-617,venda,Apartamento4,Caminho das Árvores, Rua Graviola,,214.61,4,3,4,980000
-618,venda,Casa,Caminho das Árvores,,,700.0,5,4,7,2500000
-619,venda,Apartamento,Dois de Julho,,,48.0,1,0,1,185000
-620,venda,Apartamento3,Caminho das Árvores,,,92.0,3,2,3,440000
-621,venda,Loft,Stella Maris,,,28.45,0,1,1,280260
-622,venda,Apartamento,Barra,,,29.48,1,0,1,360151
-623,venda,Apartamento2,Graça,,,86.17,2,2,3,912018
-624,venda,Apartamento3,Caminho das Árvores,,,116.0,3,2,0,990000
-625,venda,Apartamento3,Caminho das Árvores,,,130.0,3,2,5,1090800
-626,venda,Apartamento3,Horto Florestal,,,133.0,3,2,4,1137334
-627,venda,Apartamento4,Horto Florestal,,,253.0,4,4,6,2149131
-628,venda,Apartamento,Ondina,,,40.0,1,1,1,240000
-629,venda,Apartamento2,Matatu,,,60.0,2,1,1,170000
-630,venda,Terrenoemcondomínio,Praia do Flamengo,,,4000.0,0,0,0,1680000
+600,venda,Casa Comercial,Pelourinho, Rua das Portas do Carmo,,450.0,0,0,0,1800000
+601,venda,Apartamento,Matatu,,,75.0,2,1,2,235000
+602,venda,Apartamento,Barra,,,134.01,2,3,3,850000
+603,venda,Apartamento,Machado, Rua Machado Monteiro,,55.0,2,0,1,95000
+604,venda,Apartamento,Vila Laura,,,45.07,2,1,1,190000
+605,venda,Apartamento,Campinas de Brotas,,,74.0,3,0,2,199000
+606,venda,Apartamento,Luiz Anselmo,,,64.0,2,1,2,229000
+607,venda,Apartamento,Costa Azul,,,68.0,2,1,2,250000
+608,venda,Apartamento,Stiep, Rua Arthur Fraga,,85.0,3,0,2,250000
+609,venda,Apartamento,Acupe de Brotas, Rua Urbino de Aguiar,,115.0,3,1,3,298000
+610,venda,Apartamento,Candeal, Rua Carlos Maron,,75.26,3,1,3,300000
+611,venda,Apartamento,Amaralina,,,106.0,3,1,2,300000
+612,venda,Apartamento,Imbuí, Rua das Patativas,,66.0,2,2,3,350000
+613,venda,Apartamento,Pituba,,,82.63,2,2,2,360000
+614,venda,Apartamento,Pituba,,,78.62,2,1,3,410000
+615,venda,Apartamento,Pituba,,,119.0,3,1,2,440000
+616,venda,Apartamento,Pituba,,,109.16,3,1,3,495000
+617,venda,Apartamento,Candeal, Rua Icapuí,,84.0,3,2,3,500000
+618,venda,Apartamento,Canela, Rua Marechal Floriano,,128.0,3,1,3,530000
+619,venda,Apartamento,Pituba, Rua Messe de Amor,,135.0,4,2,3,580000
+620,venda,Apartamento,Costa Azul, Rua Professor Cassilandro Barbuda,,96.0,3,2,3,600000
+621,venda,Apartamento,Pituba,,,200.0,4,3,3,650000
+622,venda,Cobertura,Imbuí,,,190.0,4,2,4,650000
+623,venda,Apartamento,Ondina, Avenida Oceânica,,101.0,2,1,2,740000
+624,venda,Apartamento,Pituba, Rua Manoel Andrade,,115.0,3,2,4,800000
+625,venda,Cobertura,Rio Vermelho,,,331.13,3,5,5,1500000
+626,venda,Casa em condomínio,Alphaville II,,,243.0,4,4,4,2350000
+627,venda,Casa em condomínio,Alphaville II,,,476.0,6,4,6,2800000
+628,venda,Casa em condomínio,Alphaville II, Rua das Bromélias,,496.76,6,4,7,3300000
+629,venda,Kitchenette,Itapuã,,,33.27,1,1,1,130000
+630,venda,Terreno em condomínio,Praia do Flamengo,,,4000.0,0,0,0,1680000
 631,venda,Village,Praia do Flamengo,,,4000.0,0,0,0,1680000
