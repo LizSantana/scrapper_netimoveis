@@ -1,0 +1,40 @@
+[
+{"title": ["Pr\u00e9dio em Fortaleza"]},
+{"title": ["Ponto em Fortaleza"]},
+{"title": ["Loja em Fortaleza"]},
+{"title": ["Terreno em Fortaleza"]},
+{"title": ["Ponto em Fortaleza"]},
+{"title": ["Galp\u00e3o em Fortaleza"]},
+{"title": ["Pr\u00e9dio em Fortaleza"]},
+{"title": ["Ponto em Fortaleza"]},
+{"title": ["Terreno em Fortaleza"]},
+{"title": ["Loja em Fortaleza"]},
+{"title": ["Casa em Fortaleza"]},
+{"title": ["Pr\u00e9dio em Fortaleza"]}
+][
+{"title": ["Pr\u00e9dio em Fortaleza"], "bairro": ["Centro"]},
+{"title": ["Ponto em Fortaleza"], "bairro": ["Aldeota"]},
+{"title": ["Loja em Fortaleza"], "bairro": ["Jos\u00e9 de Alencar"]},
+{"title": ["Terreno em Fortaleza"], "bairro": ["Cajazeiras"]},
+{"title": ["Ponto em Fortaleza"], "bairro": ["Manoel Dias Branco"]},
+{"title": ["Galp\u00e3o em Fortaleza"], "bairro": ["Cajazeiras"]},
+{"title": ["Pr\u00e9dio em Fortaleza"], "bairro": ["Edson Queiroz"]},
+{"title": ["Ponto em Fortaleza"], "bairro": ["Dionisio Torres"]},
+{"title": ["Terreno em Fortaleza"], "bairro": ["Maraponga"]},
+{"title": ["Loja em Fortaleza"], "bairro": ["Centro"]},
+{"title": ["Casa em Fortaleza"], "bairro": ["Papicu"]},
+{"title": ["Pr\u00e9dio em Fortaleza"], "bairro": ["Joaquim T\u00e1vora"]}
+][
+{"title": ["Pr\u00e9dio em Fortaleza"], "bairro": ["Centro"], "metros": ["R$ 100.000", "7", "8.700"]},
+{"title": ["Ponto em Fortaleza"], "bairro": ["Aldeota"], "metros": ["R$ 69.000", "IPTU R$ 1.438/ano", "1.579"]},
+{"title": ["Loja em Fortaleza"], "bairro": ["Jos\u00e9 de Alencar"], "metros": ["R$ 50.000", "1", "5.000"]},
+{"title": ["Terreno em Fortaleza"], "bairro": ["Cajazeiras"], "metros": ["R$ 40.000", "IPTU R$ 1.715/m\u00eas", "7.000"]},
+{"title": ["Ponto em Fortaleza"], "bairro": ["Manoel Dias Branco"], "metros": ["R$ 35.000", "790"]},
+{"title": ["Galp\u00e3o em Fortaleza"], "bairro": ["Cajazeiras"], "metros": ["R$ 35.000", "1.122"]},
+{"title": ["Pr\u00e9dio em Fortaleza"], "bairro": ["Edson Queiroz"], "metros": ["R$ 32.000", "IPTU R$ 6.439/ano", "10", "4", "1.200"]},
+{"title": ["Ponto em Fortaleza"], "bairro": ["Dionisio Torres"], "metros": ["Sob consulta", "4", "541,79"]},
+{"title": ["Terreno em Fortaleza"], "bairro": ["Maraponga"], "metros": ["R$ 8.000.000", "R$ 30.000", "4.047"]},
+{"title": ["Loja em Fortaleza"], "bairro": ["Centro"], "metros": ["R$ 25.000", "2", "296"]},
+{"title": ["Casa em Fortaleza"], "bairro": ["Papicu"], "metros": ["R$ 14.000.000", "R$ 25.000", "5", "15", "7.700"]},
+{"title": ["Pr\u00e9dio em Fortaleza"], "bairro": ["Joaquim T\u00e1vora"], "metros": ["R$ 22.000", "IPTU R$ 2.276/ano", "20", "300"]}
+]

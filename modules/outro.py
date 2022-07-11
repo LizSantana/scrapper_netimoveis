@@ -33,6 +33,8 @@ class Scrapper:
         enderecos = imoveis_container.find_all('div', {'class': 'cardImovel'})
         for endereco in enderecos:
             title = endereco.find('div', {'class', 'valor'}).text
+
+            title = title[3:9]
             print(title)
 
         
